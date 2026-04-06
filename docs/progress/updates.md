@@ -221,3 +221,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 217: Recorded pass 3 progress note about the error middleware.
 - Update 218: Recorded pass 3 progress note about the chat model.
 - Update 219: Recorded pass 3 progress note about the user model.
+- Update 220: Recorded pass 3 progress note about the auth routes.
