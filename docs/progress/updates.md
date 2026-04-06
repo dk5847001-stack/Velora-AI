@@ -256,3 +256,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 252: Recorded pass 3 progress note about the form feedback.
 - Update 253: Recorded pass 3 progress note about the placeholder copy.
 - Update 254: Recorded pass 3 progress note about the component naming.
+- Update 255: Recorded pass 3 progress note about the folder structure.
