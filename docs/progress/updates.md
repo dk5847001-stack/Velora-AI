@@ -242,3 +242,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 238: Recorded pass 3 progress note about the mobile layout.
 - Update 239: Recorded pass 3 progress note about the desktop layout.
 - Update 240: Recorded pass 3 progress note about the loading states.
+- Update 241: Recorded pass 3 progress note about the error handling.
