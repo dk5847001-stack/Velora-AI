@@ -215,3 +215,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 211: Recorded pass 3 progress note about the server bootstrap.
 - Update 212: Recorded pass 3 progress note about the Express app wiring.
 - Update 213: Recorded pass 3 progress note about the database connection.
+- Update 214: Recorded pass 3 progress note about the auth controller.
