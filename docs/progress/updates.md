@@ -233,3 +233,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 229: Recorded pass 3 progress note about the README setup steps.
 - Update 230: Recorded pass 3 progress note about the environment examples.
 - Update 231: Recorded pass 3 progress note about the build outputs.
+- Update 232: Recorded pass 3 progress note about the development scripts.
