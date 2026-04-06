@@ -203,3 +203,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 199: Recorded pass 2 progress note about the change log structure.
 - Update 200: Recorded pass 2 progress note about the documentation coverage.
 - Update 201: Recorded pass 3 progress note about the client app shell.
+- Update 202: Recorded pass 3 progress note about the client auth flow.
