@@ -269,3 +269,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 265: Recorded pass 3 progress note about the environment variable usage.
 - Update 266: Recorded pass 3 progress note about the port configuration.
 - Update 267: Recorded pass 3 progress note about the client entry point.
+- Update 268: Recorded pass 3 progress note about the server entry point.
