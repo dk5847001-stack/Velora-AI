@@ -251,3 +251,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 247: Recorded pass 3 progress note about the message persistence.
 - Update 248: Recorded pass 3 progress note about the AI fallback handling.
 - Update 249: Recorded pass 3 progress note about the logout behavior.
+- Update 250: Recorded pass 3 progress note about the signup flow.
