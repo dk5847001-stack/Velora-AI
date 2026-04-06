@@ -271,3 +271,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 267: Recorded pass 3 progress note about the client entry point.
 - Update 268: Recorded pass 3 progress note about the server entry point.
 - Update 269: Recorded pass 3 progress note about the Mongoose models.
+- Update 270: Recorded pass 3 progress note about the React pages.
