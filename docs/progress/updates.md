@@ -291,3 +291,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 287: Recorded pass 3 progress note about the server routing.
 - Update 288: Recorded pass 3 progress note about the modular file layout.
 - Update 289: Recorded pass 3 progress note about the project overview.
+- Update 290: Recorded pass 3 progress note about the feature list.
