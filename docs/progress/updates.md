@@ -295,3 +295,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 291: Recorded pass 3 progress note about the testing gaps.
 - Update 292: Recorded pass 3 progress note about the maintenance checklist.
 - Update 293: Recorded pass 3 progress note about the future backlog.
+- Update 294: Recorded pass 3 progress note about the troubleshooting notes.
