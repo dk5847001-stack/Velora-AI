@@ -286,3 +286,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 282: Recorded pass 3 progress note about the API fallback paths.
 - Update 283: Recorded pass 3 progress note about the response timing notes.
 - Update 284: Recorded pass 3 progress note about the prompt handling.
+- Update 285: Recorded pass 3 progress note about the request auth headers.
