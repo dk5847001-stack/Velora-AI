@@ -303,3 +303,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 299: Recorded pass 3 progress note about the change log structure.
 - Update 300: Recorded pass 3 progress note about the documentation coverage.
 - Update 301: Recorded pass 4 progress note about the client app shell.
+- Update 302: Recorded pass 4 progress note about the client auth flow.
