@@ -298,3 +298,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 294: Recorded pass 3 progress note about the troubleshooting notes.
 - Update 295: Recorded pass 3 progress note about the developer onboarding.
 - Update 296: Recorded pass 3 progress note about the release notes.
+- Update 297: Recorded pass 3 progress note about the repo hygiene.
