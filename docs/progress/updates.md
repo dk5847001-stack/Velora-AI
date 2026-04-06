@@ -246,3 +246,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 242: Recorded pass 3 progress note about the request validation.
 - Update 243: Recorded pass 3 progress note about the response formatting.
 - Update 244: Recorded pass 3 progress note about the session recovery.
+- Update 245: Recorded pass 3 progress note about the route protection.
