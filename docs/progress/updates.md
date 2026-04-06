@@ -230,3 +230,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 226: Recorded pass 3 progress note about the OpenAI service.
 - Update 227: Recorded pass 3 progress note about the async utilities.
 - Update 228: Recorded pass 3 progress note about the token generation.
+- Update 229: Recorded pass 3 progress note about the README setup steps.
