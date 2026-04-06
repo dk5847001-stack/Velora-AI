@@ -300,3 +300,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 296: Recorded pass 3 progress note about the release notes.
 - Update 297: Recorded pass 3 progress note about the repo hygiene.
 - Update 298: Recorded pass 3 progress note about the safe commit cadence.
+- Update 299: Recorded pass 3 progress note about the change log structure.
