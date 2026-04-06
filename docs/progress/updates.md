@@ -259,3 +259,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 255: Recorded pass 3 progress note about the folder structure.
 - Update 256: Recorded pass 3 progress note about the API route surface.
 - Update 257: Recorded pass 3 progress note about the deployment assumptions.
+- Update 258: Recorded pass 3 progress note about the local demo mode.
