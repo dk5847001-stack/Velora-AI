@@ -216,3 +216,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 212: Recorded pass 3 progress note about the Express app wiring.
 - Update 213: Recorded pass 3 progress note about the database connection.
 - Update 214: Recorded pass 3 progress note about the auth controller.
+- Update 215: Recorded pass 3 progress note about the chat controller.
