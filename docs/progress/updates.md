@@ -264,3 +264,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 260: Recorded pass 3 progress note about the chat deletion flow.
 - Update 261: Recorded pass 3 progress note about the new chat creation.
 - Update 262: Recorded pass 3 progress note about the message submit path.
+- Update 263: Recorded pass 3 progress note about the copy button behavior.
