@@ -288,3 +288,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 284: Recorded pass 3 progress note about the prompt handling.
 - Update 285: Recorded pass 3 progress note about the request auth headers.
 - Update 286: Recorded pass 3 progress note about the client routing.
+- Update 287: Recorded pass 3 progress note about the server routing.
