@@ -277,3 +277,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 273: Recorded pass 3 progress note about the setup clarity.
 - Update 274: Recorded pass 3 progress note about the runbook details.
 - Update 275: Recorded pass 3 progress note about the debug logs hygiene.
+- Update 276: Recorded pass 3 progress note about the production build notes.
