@@ -266,3 +266,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 262: Recorded pass 3 progress note about the message submit path.
 - Update 263: Recorded pass 3 progress note about the copy button behavior.
 - Update 264: Recorded pass 3 progress note about the scroll behavior.
+- Update 265: Recorded pass 3 progress note about the environment variable usage.
