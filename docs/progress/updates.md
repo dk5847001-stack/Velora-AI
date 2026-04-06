@@ -239,3 +239,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 235: Recorded pass 3 progress note about the Mongo persistence.
 - Update 236: Recorded pass 3 progress note about the Markdown rendering.
 - Update 237: Recorded pass 3 progress note about the syntax highlighting.
+- Update 238: Recorded pass 3 progress note about the mobile layout.
