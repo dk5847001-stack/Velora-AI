@@ -81,6 +81,17 @@ export default function ChatPage() {
   };
 
   const loadConversation = async (chatId) => {
+    if (!chatId) {
+      return;
+    }
+
+    if (chatId === activeChatId && activeChat) {
+      setSidebarOpen(false);
+      setPageError("");
+      return;
+    }
+
+    const previousActiveChatId = activeChatId;
     setActiveChatId(chatId);
     setIsLoadingConversation(true);
 
@@ -98,6 +109,7 @@ export default function ChatPage() {
       setPageError("");
       setSidebarOpen(false);
     } catch (error) {
+      setActiveChatId(previousActiveChatId);
       setPageError(getApiErrorMessage(error, "Unable to open that conversation."));
     } finally {
       setIsLoadingConversation(false);
@@ -136,10 +148,11 @@ export default function ChatPage() {
 
         applyAssistantStatus(response);
         const nextChats = Array.isArray(response.chats) ? response.chats : [];
-        setChats(nextChats);
+        const sortedChats = sortChats(nextChats);
+        setChats(sortedChats);
 
-        if (nextChats.length > 0) {
-          const firstChat = nextChats[0];
+        if (sortedChats.length > 0) {
+          const firstChat = sortedChats[0];
           setActiveChatId(firstChat.id);
 
           const conversationResponse = await fetchChatByIdRequest(firstChat.id);

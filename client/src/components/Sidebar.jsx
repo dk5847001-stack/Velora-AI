@@ -1,4 +1,5 @@
-import { LogOut, Plus, Trash2, X } from "lucide-react";
+import { LogOut, Plus, Search, Trash2, X } from "lucide-react";
+import { useState } from "react";
 
 import { formatChatTimestamp } from "../utils/formatters";
 import BrandMark from "./BrandMark";
@@ -17,6 +18,16 @@ export default function Sidebar({
   onSelectChat,
 }) {
   const chatItems = Array.isArray(chats) ? chats : [];
+  const [searchValue, setSearchValue] = useState("");
+  const normalizedSearch = searchValue.trim().toLowerCase();
+  const filteredChats = normalizedSearch
+    ? chatItems.filter((chat) => {
+        const title = String(chat?.title || "").toLowerCase();
+        const preview = String(chat?.preview || "").toLowerCase();
+
+        return title.includes(normalizedSearch) || preview.includes(normalizedSearch);
+      })
+    : chatItems;
 
   return (
     <>
@@ -59,17 +70,43 @@ export default function Sidebar({
 
         <div className="sidebar-section">
           <div className="sidebar-section-header">
-            <span>Recent chats</span>
-            <span>{chatItems.length}</span>
+            <span>{normalizedSearch ? "Matching chats" : "Recent chats"}</span>
+            <span>{normalizedSearch ? filteredChats.length : chatItems.length}</span>
           </div>
+
+          <label className="sidebar-search" htmlFor="sidebar-chat-search">
+            <Search size={16} />
+            <input
+              id="sidebar-chat-search"
+              type="search"
+              value={searchValue}
+              onChange={(event) => setSearchValue(event.target.value)}
+              placeholder="Search chats"
+              autoComplete="off"
+            />
+            {searchValue ? (
+              <button
+                className="ghost-icon-button sidebar-search-clear"
+                onClick={() => setSearchValue("")}
+                type="button"
+                aria-label="Clear chat search"
+              >
+                <X size={16} />
+              </button>
+            ) : null}
+          </label>
 
           <div className="chat-list">
             {chatItems.length === 0 ? (
               <div className="sidebar-empty">
                 Your saved conversations will appear here.
               </div>
+            ) : filteredChats.length === 0 ? (
+              <div className="sidebar-empty">
+                No chats match "{searchValue.trim()}".
+              </div>
             ) : (
-              chatItems.map((chat) => {
+              filteredChats.map((chat) => {
                 const chatTitle = chat?.title || "New conversation";
                 const chatPreview =
                   chat.preview || "Fresh conversation, waiting for the first message.";

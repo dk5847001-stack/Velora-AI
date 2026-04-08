@@ -525,6 +525,42 @@ textarea:focus-visible {
   text-transform: uppercase;
 }
 
+.sidebar-search {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: 0.85rem;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text-muted);
+}
+
+.sidebar-search:focus-within {
+  border-color: rgba(124, 231, 196, 0.3);
+  box-shadow: 0 0 0 4px rgba(124, 231, 196, 0.06);
+}
+
+.sidebar-search input {
+  width: 100%;
+  min-width: 0;
+  background: transparent;
+  color: var(--text);
+  outline: none;
+}
+
+.sidebar-search input::placeholder {
+  color: var(--text-muted);
+}
+
+.sidebar-search-clear {
+  min-width: 34px;
+  min-height: 34px;
+  padding: 0;
+  border-radius: 12px;
+}
+
 .chat-list {
   display: flex;
   flex: 1;
