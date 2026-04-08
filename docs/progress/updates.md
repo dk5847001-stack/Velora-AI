@@ -368,3 +368,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 364: Recorded pass 4 progress note about the scroll behavior.
 - Update 365: Recorded pass 4 progress note about the environment variable usage.
 - Update 366: Recorded pass 4 progress note about the port configuration.
+- Update 367: Recorded pass 4 progress note about the client entry point.
