@@ -326,3 +326,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 322: Recorded pass 4 progress note about the assistant service.
 - Update 323: Recorded pass 4 progress note about the demo assistant.
 - Update 324: Recorded pass 4 progress note about the local knowledge service.
+- Update 325: Recorded pass 4 progress note about the math assistant.
