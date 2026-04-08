@@ -387,3 +387,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 383: Recorded pass 4 progress note about the response timing notes.
 - Update 384: Recorded pass 4 progress note about the prompt handling.
 - Update 385: Recorded pass 4 progress note about the request auth headers.
+- Update 386: Recorded pass 4 progress note about the client routing.
