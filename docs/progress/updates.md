@@ -381,3 +381,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 377: Recorded pass 4 progress note about the package scripts.
 - Update 378: Recorded pass 4 progress note about the dependency boundaries.
 - Update 379: Recorded pass 4 progress note about the frontend state flow.
+- Update 380: Recorded pass 4 progress note about the backend service boundaries.
