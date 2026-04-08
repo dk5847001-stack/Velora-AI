@@ -342,3 +342,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 338: Recorded pass 4 progress note about the mobile layout.
 - Update 339: Recorded pass 4 progress note about the desktop layout.
 - Update 340: Recorded pass 4 progress note about the loading states.
+- Update 341: Recorded pass 4 progress note about the error handling.
