@@ -307,3 +307,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 303: Recorded pass 4 progress note about the chat composer.
 - Update 304: Recorded pass 4 progress note about the chat header.
 - Update 305: Recorded pass 4 progress note about the chat message renderer.
+- Update 306: Recorded pass 4 progress note about the empty state.
