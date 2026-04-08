@@ -370,3 +370,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 366: Recorded pass 4 progress note about the port configuration.
 - Update 367: Recorded pass 4 progress note about the client entry point.
 - Update 368: Recorded pass 4 progress note about the server entry point.
+- Update 369: Recorded pass 4 progress note about the Mongoose models.
