@@ -385,3 +385,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 381: Recorded pass 4 progress note about the error messages.
 - Update 382: Recorded pass 4 progress note about the API fallback paths.
 - Update 383: Recorded pass 4 progress note about the response timing notes.
+- Update 384: Recorded pass 4 progress note about the prompt handling.
