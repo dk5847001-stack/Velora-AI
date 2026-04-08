@@ -360,3 +360,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 356: Recorded pass 4 progress note about the API route surface.
 - Update 357: Recorded pass 4 progress note about the deployment assumptions.
 - Update 358: Recorded pass 4 progress note about the local demo mode.
+- Update 359: Recorded pass 4 progress note about the history sidebar.
