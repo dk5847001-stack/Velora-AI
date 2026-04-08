@@ -383,3 +383,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 379: Recorded pass 4 progress note about the frontend state flow.
 - Update 380: Recorded pass 4 progress note about the backend service boundaries.
 - Update 381: Recorded pass 4 progress note about the error messages.
+- Update 382: Recorded pass 4 progress note about the API fallback paths.
