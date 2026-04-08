@@ -376,3 +376,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 372: Recorded pass 4 progress note about the documentation tone.
 - Update 373: Recorded pass 4 progress note about the setup clarity.
 - Update 374: Recorded pass 4 progress note about the runbook details.
+- Update 375: Recorded pass 4 progress note about the debug logs hygiene.
