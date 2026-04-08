@@ -391,3 +391,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 387: Recorded pass 4 progress note about the server routing.
 - Update 388: Recorded pass 4 progress note about the modular file layout.
 - Update 389: Recorded pass 4 progress note about the project overview.
+- Update 390: Recorded pass 4 progress note about the feature list.
