@@ -352,3 +352,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 348: Recorded pass 4 progress note about the AI fallback handling.
 - Update 349: Recorded pass 4 progress note about the logout behavior.
 - Update 350: Recorded pass 4 progress note about the signup flow.
+- Update 351: Recorded pass 4 progress note about the login flow.
