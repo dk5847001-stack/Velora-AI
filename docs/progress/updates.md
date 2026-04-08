@@ -337,3 +337,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 333: Recorded pass 4 progress note about the Vite proxy behavior.
 - Update 334: Recorded pass 4 progress note about the JWT token lifecycle.
 - Update 335: Recorded pass 4 progress note about the Mongo persistence.
+- Update 336: Recorded pass 4 progress note about the Markdown rendering.
