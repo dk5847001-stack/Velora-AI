@@ -312,3 +312,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 308: Recorded pass 4 progress note about the auth context.
 - Update 309: Recorded pass 4 progress note about the API client setup.
 - Update 310: Recorded pass 4 progress note about the format helpers.
+- Update 311: Recorded pass 4 progress note about the server bootstrap.
