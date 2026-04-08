@@ -324,3 +324,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 320: Recorded pass 4 progress note about the auth routes.
 - Update 321: Recorded pass 4 progress note about the chat routes.
 - Update 322: Recorded pass 4 progress note about the assistant service.
+- Update 323: Recorded pass 4 progress note about the demo assistant.
