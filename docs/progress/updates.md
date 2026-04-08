@@ -331,3 +331,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 327: Recorded pass 4 progress note about the async utilities.
 - Update 328: Recorded pass 4 progress note about the token generation.
 - Update 329: Recorded pass 4 progress note about the README setup steps.
+- Update 330: Recorded pass 4 progress note about the environment examples.
