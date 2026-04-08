@@ -349,3 +349,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 345: Recorded pass 4 progress note about the route protection.
 - Update 346: Recorded pass 4 progress note about the chat history loading.
 - Update 347: Recorded pass 4 progress note about the message persistence.
+- Update 348: Recorded pass 4 progress note about the AI fallback handling.
