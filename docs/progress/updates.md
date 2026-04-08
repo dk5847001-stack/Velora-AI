@@ -362,3 +362,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 358: Recorded pass 4 progress note about the local demo mode.
 - Update 359: Recorded pass 4 progress note about the history sidebar.
 - Update 360: Recorded pass 4 progress note about the chat deletion flow.
+- Update 361: Recorded pass 4 progress note about the new chat creation.
