@@ -357,3 +357,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 353: Recorded pass 4 progress note about the placeholder copy.
 - Update 354: Recorded pass 4 progress note about the component naming.
 - Update 355: Recorded pass 4 progress note about the folder structure.
+- Update 356: Recorded pass 4 progress note about the API route surface.
