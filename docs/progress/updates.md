@@ -310,3 +310,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 306: Recorded pass 4 progress note about the empty state.
 - Update 307: Recorded pass 4 progress note about the sidebar interactions.
 - Update 308: Recorded pass 4 progress note about the auth context.
+- Update 309: Recorded pass 4 progress note about the API client setup.
