@@ -397,3 +397,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 393: Recorded pass 4 progress note about the future backlog.
 - Update 394: Recorded pass 4 progress note about the troubleshooting notes.
 - Update 395: Recorded pass 4 progress note about the developer onboarding.
+- Update 396: Recorded pass 4 progress note about the release notes.
