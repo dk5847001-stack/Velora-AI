@@ -402,3 +402,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 398: Recorded pass 4 progress note about the safe commit cadence.
 - Update 399: Recorded pass 4 progress note about the change log structure.
 - Update 400: Recorded pass 4 progress note about the documentation coverage.
+- Update 401: Recorded pass 5 progress note about the client app shell.
