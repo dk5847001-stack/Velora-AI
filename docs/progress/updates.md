@@ -434,3 +434,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 430: Recorded pass 5 progress note about the environment examples.
 - Update 431: Recorded pass 5 progress note about the build outputs.
 - Update 432: Recorded pass 5 progress note about the development scripts.
+- Update 433: Recorded pass 5 progress note about the Vite proxy behavior.
