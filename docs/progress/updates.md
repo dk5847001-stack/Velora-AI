@@ -421,3 +421,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 417: Recorded pass 5 progress note about the error middleware.
 - Update 418: Recorded pass 5 progress note about the chat model.
 - Update 419: Recorded pass 5 progress note about the user model.
+- Update 420: Recorded pass 5 progress note about the auth routes.
