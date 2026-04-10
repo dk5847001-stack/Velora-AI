@@ -439,3 +439,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 435: Recorded pass 5 progress note about the Mongo persistence.
 - Update 436: Recorded pass 5 progress note about the Markdown rendering.
 - Update 437: Recorded pass 5 progress note about the syntax highlighting.
+- Update 438: Recorded pass 5 progress note about the mobile layout.
