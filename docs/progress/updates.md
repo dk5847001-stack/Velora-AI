@@ -487,3 +487,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 483: Recorded pass 5 progress note about the response timing notes.
 - Update 484: Recorded pass 5 progress note about the prompt handling.
 - Update 485: Recorded pass 5 progress note about the request auth headers.
+- Update 486: Recorded pass 5 progress note about the client routing.
