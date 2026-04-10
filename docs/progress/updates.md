@@ -464,3 +464,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 460: Recorded pass 5 progress note about the chat deletion flow.
 - Update 461: Recorded pass 5 progress note about the new chat creation.
 - Update 462: Recorded pass 5 progress note about the message submit path.
+- Update 463: Recorded pass 5 progress note about the copy button behavior.
