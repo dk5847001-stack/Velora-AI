@@ -408,3 +408,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 404: Recorded pass 5 progress note about the chat header.
 - Update 405: Recorded pass 5 progress note about the chat message renderer.
 - Update 406: Recorded pass 5 progress note about the empty state.
+- Update 407: Recorded pass 5 progress note about the sidebar interactions.
