@@ -491,3 +491,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 487: Recorded pass 5 progress note about the server routing.
 - Update 488: Recorded pass 5 progress note about the modular file layout.
 - Update 489: Recorded pass 5 progress note about the project overview.
+- Update 490: Recorded pass 5 progress note about the feature list.
