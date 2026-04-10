@@ -501,3 +501,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 497: Recorded pass 5 progress note about the repo hygiene.
 - Update 498: Recorded pass 5 progress note about the safe commit cadence.
 - Update 499: Recorded pass 5 progress note about the change log structure.
+- Update 500: Recorded pass 5 progress note about the documentation coverage.
