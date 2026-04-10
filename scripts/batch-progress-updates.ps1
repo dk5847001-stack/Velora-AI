@@ -8,6 +8,19 @@ $ErrorActionPreference = 'Stop'
 $repoRoot = Resolve-Path (Join-Path $PSScriptRoot '..')
 Set-Location $repoRoot
 
+function Invoke-Git {
+  param(
+    [Parameter(Mandatory = $true)]
+    [string[]]$Arguments
+  )
+
+  & git @Arguments
+
+  if ($LASTEXITCODE -ne 0) {
+    throw ("git {0} failed with exit code {1}." -f ($Arguments -join ' '), $LASTEXITCODE)
+  }
+}
+
 # Stop early so `git add .` only captures the changes created by this script.
 if (git status --porcelain) {
   throw 'The working tree must be clean before running batch-progress-updates.ps1.'
@@ -133,6 +146,14 @@ $areas = @(
   'documentation coverage'
 )
 
+$commitMessages = @(
+  'docs: note {0} progress'
+  'docs: refine {0} update'
+  'docs: record {0} checkpoint'
+  'docs: clarify {0} progress'
+  'docs: track {0} update'
+)
+
 $existingCount = 0
 
 if (Test-Path $ledgerPath) {
@@ -160,13 +181,15 @@ for ($i = $existingCount; $i -lt $targetCount; $i++) {
   $area = $areas[$i % $areas.Count]
   $passNumber = [math]::Floor($i / $areas.Count) + 1
   $line = "- Update {0:D3}: Recorded pass {1} progress note about the {2}." -f $updateNumber, $passNumber, $area
+  $commitMessageTemplate = $commitMessages[$i % $commitMessages.Count]
+  $commitMessage = ($commitMessageTemplate -f $area)
 
   Add-Content -Path $ledgerPath -Value $line -Encoding utf8
   Write-Host ("Applying update {0:D3}/{1:D3}" -f $updateNumber, $targetCount)
 
-  git add .
-  git commit -m ("docs: add progress update {0:D3}" -f $updateNumber)
-  git push origin main
+  Invoke-Git -Arguments @('add', '.')
+  Invoke-Git -Arguments @('commit', '-m', $commitMessage)
+  Invoke-Git -Arguments @('push', 'origin', 'main')
 }
 
 Write-Host ("Completed {0} small updates." -f $Count)
