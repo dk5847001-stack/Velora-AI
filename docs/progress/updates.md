@@ -451,3 +451,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 447: Recorded pass 5 progress note about the message persistence.
 - Update 448: Recorded pass 5 progress note about the AI fallback handling.
 - Update 449: Recorded pass 5 progress note about the logout behavior.
+- Update 450: Recorded pass 5 progress note about the signup flow.
