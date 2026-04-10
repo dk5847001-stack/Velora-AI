@@ -483,3 +483,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 479: Recorded pass 5 progress note about the frontend state flow.
 - Update 480: Recorded pass 5 progress note about the backend service boundaries.
 - Update 481: Recorded pass 5 progress note about the error messages.
+- Update 482: Recorded pass 5 progress note about the API fallback paths.
