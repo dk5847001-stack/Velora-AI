@@ -432,3 +432,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 428: Recorded pass 5 progress note about the token generation.
 - Update 429: Recorded pass 5 progress note about the README setup steps.
 - Update 430: Recorded pass 5 progress note about the environment examples.
+- Update 431: Recorded pass 5 progress note about the build outputs.
