@@ -438,3 +438,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 434: Recorded pass 5 progress note about the JWT token lifecycle.
 - Update 435: Recorded pass 5 progress note about the Mongo persistence.
 - Update 436: Recorded pass 5 progress note about the Markdown rendering.
+- Update 437: Recorded pass 5 progress note about the syntax highlighting.
