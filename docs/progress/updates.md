@@ -494,3 +494,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 490: Recorded pass 5 progress note about the feature list.
 - Update 491: Recorded pass 5 progress note about the testing gaps.
 - Update 492: Recorded pass 5 progress note about the maintenance checklist.
+- Update 493: Recorded pass 5 progress note about the future backlog.
