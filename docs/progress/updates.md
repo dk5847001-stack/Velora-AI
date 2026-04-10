@@ -485,3 +485,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 481: Recorded pass 5 progress note about the error messages.
 - Update 482: Recorded pass 5 progress note about the API fallback paths.
 - Update 483: Recorded pass 5 progress note about the response timing notes.
+- Update 484: Recorded pass 5 progress note about the prompt handling.
