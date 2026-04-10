@@ -472,3 +472,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 468: Recorded pass 5 progress note about the server entry point.
 - Update 469: Recorded pass 5 progress note about the Mongoose models.
 - Update 470: Recorded pass 5 progress note about the React pages.
+- Update 471: Recorded pass 5 progress note about the shared utilities.
