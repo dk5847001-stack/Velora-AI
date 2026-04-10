@@ -413,3 +413,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 409: Recorded pass 5 progress note about the API client setup.
 - Update 410: Recorded pass 5 progress note about the format helpers.
 - Update 411: Recorded pass 5 progress note about the server bootstrap.
+- Update 412: Recorded pass 5 progress note about the Express app wiring.
