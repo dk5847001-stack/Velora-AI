@@ -428,3 +428,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 424: Recorded pass 5 progress note about the local knowledge service.
 - Update 425: Recorded pass 5 progress note about the math assistant.
 - Update 426: Recorded pass 5 progress note about the OpenAI service.
+- Update 427: Recorded pass 5 progress note about the async utilities.
