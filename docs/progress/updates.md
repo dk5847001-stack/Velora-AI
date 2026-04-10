@@ -447,3 +447,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 443: Recorded pass 5 progress note about the response formatting.
 - Update 444: Recorded pass 5 progress note about the session recovery.
 - Update 445: Recorded pass 5 progress note about the route protection.
+- Update 446: Recorded pass 5 progress note about the chat history loading.
