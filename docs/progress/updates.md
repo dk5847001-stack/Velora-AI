@@ -469,3 +469,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 465: Recorded pass 5 progress note about the environment variable usage.
 - Update 466: Recorded pass 5 progress note about the port configuration.
 - Update 467: Recorded pass 5 progress note about the client entry point.
+- Update 468: Recorded pass 5 progress note about the server entry point.
