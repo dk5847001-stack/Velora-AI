@@ -410,3 +410,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 406: Recorded pass 5 progress note about the empty state.
 - Update 407: Recorded pass 5 progress note about the sidebar interactions.
 - Update 408: Recorded pass 5 progress note about the auth context.
+- Update 409: Recorded pass 5 progress note about the API client setup.
