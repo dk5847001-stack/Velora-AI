@@ -459,3 +459,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 455: Recorded pass 5 progress note about the folder structure.
 - Update 456: Recorded pass 5 progress note about the API route surface.
 - Update 457: Recorded pass 5 progress note about the deployment assumptions.
+- Update 458: Recorded pass 5 progress note about the local demo mode.
