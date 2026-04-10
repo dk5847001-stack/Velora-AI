@@ -405,3 +405,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 401: Recorded pass 5 progress note about the client app shell.
 - Update 402: Recorded pass 5 progress note about the client auth flow.
 - Update 403: Recorded pass 5 progress note about the chat composer.
+- Update 404: Recorded pass 5 progress note about the chat header.
