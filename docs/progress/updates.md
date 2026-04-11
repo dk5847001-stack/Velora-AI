@@ -571,3 +571,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 567: Recorded pass 6 progress note about the client entry point.
 - Update 568: Recorded pass 6 progress note about the server entry point.
 - Update 569: Recorded pass 6 progress note about the Mongoose models.
+- Update 570: Recorded pass 6 progress note about the React pages.
