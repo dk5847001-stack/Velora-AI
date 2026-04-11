@@ -601,3 +601,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 597: Recorded pass 6 progress note about the repo hygiene.
 - Update 598: Recorded pass 6 progress note about the safe commit cadence.
 - Update 599: Recorded pass 6 progress note about the change log structure.
+- Update 600: Recorded pass 6 progress note about the documentation coverage.
