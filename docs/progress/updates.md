@@ -580,3 +580,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 576: Recorded pass 6 progress note about the production build notes.
 - Update 577: Recorded pass 6 progress note about the package scripts.
 - Update 578: Recorded pass 6 progress note about the dependency boundaries.
+- Update 579: Recorded pass 6 progress note about the frontend state flow.
