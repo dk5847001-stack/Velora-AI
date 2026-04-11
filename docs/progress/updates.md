@@ -510,3 +510,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 506: Recorded pass 6 progress note about the empty state.
 - Update 507: Recorded pass 6 progress note about the sidebar interactions.
 - Update 508: Recorded pass 6 progress note about the auth context.
+- Update 509: Recorded pass 6 progress note about the API client setup.
