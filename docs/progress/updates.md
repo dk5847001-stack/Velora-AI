@@ -570,3 +570,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 566: Recorded pass 6 progress note about the port configuration.
 - Update 567: Recorded pass 6 progress note about the client entry point.
 - Update 568: Recorded pass 6 progress note about the server entry point.
+- Update 569: Recorded pass 6 progress note about the Mongoose models.
