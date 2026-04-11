@@ -561,3 +561,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 557: Recorded pass 6 progress note about the deployment assumptions.
 - Update 558: Recorded pass 6 progress note about the local demo mode.
 - Update 559: Recorded pass 6 progress note about the history sidebar.
+- Update 560: Recorded pass 6 progress note about the chat deletion flow.
