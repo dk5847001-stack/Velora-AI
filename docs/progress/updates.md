@@ -602,3 +602,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 598: Recorded pass 6 progress note about the safe commit cadence.
 - Update 599: Recorded pass 6 progress note about the change log structure.
 - Update 600: Recorded pass 6 progress note about the documentation coverage.
+- Update 601: Recorded pass 7 progress note about the client app shell.
