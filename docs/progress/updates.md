@@ -576,3 +576,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 572: Recorded pass 6 progress note about the documentation tone.
 - Update 573: Recorded pass 6 progress note about the setup clarity.
 - Update 574: Recorded pass 6 progress note about the runbook details.
+- Update 575: Recorded pass 6 progress note about the debug logs hygiene.
