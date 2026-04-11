@@ -556,3 +556,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 552: Recorded pass 6 progress note about the form feedback.
 - Update 553: Recorded pass 6 progress note about the placeholder copy.
 - Update 554: Recorded pass 6 progress note about the component naming.
+- Update 555: Recorded pass 6 progress note about the folder structure.
