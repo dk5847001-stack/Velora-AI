@@ -598,3 +598,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 594: Recorded pass 6 progress note about the troubleshooting notes.
 - Update 595: Recorded pass 6 progress note about the developer onboarding.
 - Update 596: Recorded pass 6 progress note about the release notes.
+- Update 597: Recorded pass 6 progress note about the repo hygiene.
