@@ -512,3 +512,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 508: Recorded pass 6 progress note about the auth context.
 - Update 509: Recorded pass 6 progress note about the API client setup.
 - Update 510: Recorded pass 6 progress note about the format helpers.
+- Update 511: Recorded pass 6 progress note about the server bootstrap.
