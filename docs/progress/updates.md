@@ -587,3 +587,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 583: Recorded pass 6 progress note about the response timing notes.
 - Update 584: Recorded pass 6 progress note about the prompt handling.
 - Update 585: Recorded pass 6 progress note about the request auth headers.
+- Update 586: Recorded pass 6 progress note about the client routing.
