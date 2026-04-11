@@ -551,3 +551,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 547: Recorded pass 6 progress note about the message persistence.
 - Update 548: Recorded pass 6 progress note about the AI fallback handling.
 - Update 549: Recorded pass 6 progress note about the logout behavior.
+- Update 550: Recorded pass 6 progress note about the signup flow.
