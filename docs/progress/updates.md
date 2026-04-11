@@ -605,3 +605,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 601: Recorded pass 7 progress note about the client app shell.
 - Update 602: Recorded pass 7 progress note about the client auth flow.
 - Update 603: Recorded pass 7 progress note about the chat composer.
+- Update 604: Recorded pass 7 progress note about the chat header.
