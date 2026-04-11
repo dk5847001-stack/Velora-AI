@@ -525,3 +525,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 521: Recorded pass 6 progress note about the chat routes.
 - Update 522: Recorded pass 6 progress note about the assistant service.
 - Update 523: Recorded pass 6 progress note about the demo assistant.
+- Update 524: Recorded pass 6 progress note about the local knowledge service.
