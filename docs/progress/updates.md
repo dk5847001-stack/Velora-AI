@@ -585,3 +585,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 581: Recorded pass 6 progress note about the error messages.
 - Update 582: Recorded pass 6 progress note about the API fallback paths.
 - Update 583: Recorded pass 6 progress note about the response timing notes.
+- Update 584: Recorded pass 6 progress note about the prompt handling.
