@@ -596,3 +596,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 592: Recorded pass 6 progress note about the maintenance checklist.
 - Update 593: Recorded pass 6 progress note about the future backlog.
 - Update 594: Recorded pass 6 progress note about the troubleshooting notes.
+- Update 595: Recorded pass 6 progress note about the developer onboarding.
