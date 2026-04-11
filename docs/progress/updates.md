@@ -506,3 +506,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 502: Recorded pass 6 progress note about the client auth flow.
 - Update 503: Recorded pass 6 progress note about the chat composer.
 - Update 504: Recorded pass 6 progress note about the chat header.
+- Update 505: Recorded pass 6 progress note about the chat message renderer.
