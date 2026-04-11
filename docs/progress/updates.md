@@ -533,3 +533,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 529: Recorded pass 6 progress note about the README setup steps.
 - Update 530: Recorded pass 6 progress note about the environment examples.
 - Update 531: Recorded pass 6 progress note about the build outputs.
+- Update 532: Recorded pass 6 progress note about the development scripts.
