@@ -548,3 +548,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 544: Recorded pass 6 progress note about the session recovery.
 - Update 545: Recorded pass 6 progress note about the route protection.
 - Update 546: Recorded pass 6 progress note about the chat history loading.
+- Update 547: Recorded pass 6 progress note about the message persistence.
