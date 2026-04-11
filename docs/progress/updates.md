@@ -591,3 +591,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 587: Recorded pass 6 progress note about the server routing.
 - Update 588: Recorded pass 6 progress note about the modular file layout.
 - Update 589: Recorded pass 6 progress note about the project overview.
+- Update 590: Recorded pass 6 progress note about the feature list.
