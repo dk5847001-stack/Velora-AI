@@ -522,3 +522,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 518: Recorded pass 6 progress note about the chat model.
 - Update 519: Recorded pass 6 progress note about the user model.
 - Update 520: Recorded pass 6 progress note about the auth routes.
+- Update 521: Recorded pass 6 progress note about the chat routes.
