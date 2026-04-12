@@ -623,3 +623,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 619: Recorded pass 7 progress note about the user model.
 - Update 620: Recorded pass 7 progress note about the auth routes.
 - Update 621: Recorded pass 7 progress note about the chat routes.
+- Update 622: Recorded pass 7 progress note about the assistant service.
