@@ -649,3 +649,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 645: Recorded pass 7 progress note about the route protection.
 - Update 646: Recorded pass 7 progress note about the chat history loading.
 - Update 647: Recorded pass 7 progress note about the message persistence.
+- Update 648: Recorded pass 7 progress note about the AI fallback handling.
