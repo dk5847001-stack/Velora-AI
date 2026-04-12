@@ -690,3 +690,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 686: Recorded pass 7 progress note about the client routing.
 - Update 687: Recorded pass 7 progress note about the server routing.
 - Update 688: Recorded pass 7 progress note about the modular file layout.
+- Update 689: Recorded pass 7 progress note about the project overview.
