@@ -633,3 +633,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 629: Recorded pass 7 progress note about the README setup steps.
 - Update 630: Recorded pass 7 progress note about the environment examples.
 - Update 631: Recorded pass 7 progress note about the build outputs.
+- Update 632: Recorded pass 7 progress note about the development scripts.
