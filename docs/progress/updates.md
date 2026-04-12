@@ -705,3 +705,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 701: Recorded pass 8 progress note about the client app shell.
 - Update 702: Recorded pass 8 progress note about the client auth flow.
 - Update 703: Recorded pass 8 progress note about the chat composer.
+- Update 704: Recorded pass 8 progress note about the chat header.
