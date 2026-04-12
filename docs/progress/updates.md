@@ -660,3 +660,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 656: Recorded pass 7 progress note about the API route surface.
 - Update 657: Recorded pass 7 progress note about the deployment assumptions.
 - Update 658: Recorded pass 7 progress note about the local demo mode.
+- Update 659: Recorded pass 7 progress note about the history sidebar.
