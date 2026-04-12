@@ -650,3 +650,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 646: Recorded pass 7 progress note about the chat history loading.
 - Update 647: Recorded pass 7 progress note about the message persistence.
 - Update 648: Recorded pass 7 progress note about the AI fallback handling.
+- Update 649: Recorded pass 7 progress note about the logout behavior.
