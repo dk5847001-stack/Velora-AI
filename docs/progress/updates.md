@@ -628,3 +628,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 624: Recorded pass 7 progress note about the local knowledge service.
 - Update 625: Recorded pass 7 progress note about the math assistant.
 - Update 626: Recorded pass 7 progress note about the OpenAI service.
+- Update 627: Recorded pass 7 progress note about the async utilities.
