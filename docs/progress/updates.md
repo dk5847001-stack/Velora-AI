@@ -679,3 +679,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 675: Recorded pass 7 progress note about the debug logs hygiene.
 - Update 676: Recorded pass 7 progress note about the production build notes.
 - Update 677: Recorded pass 7 progress note about the package scripts.
+- Update 678: Recorded pass 7 progress note about the dependency boundaries.
