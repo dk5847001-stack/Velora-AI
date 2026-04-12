@@ -630,3 +630,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 626: Recorded pass 7 progress note about the OpenAI service.
 - Update 627: Recorded pass 7 progress note about the async utilities.
 - Update 628: Recorded pass 7 progress note about the token generation.
+- Update 629: Recorded pass 7 progress note about the README setup steps.
