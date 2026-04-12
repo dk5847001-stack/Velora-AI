@@ -677,3 +677,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 673: Recorded pass 7 progress note about the setup clarity.
 - Update 674: Recorded pass 7 progress note about the runbook details.
 - Update 675: Recorded pass 7 progress note about the debug logs hygiene.
+- Update 676: Recorded pass 7 progress note about the production build notes.
