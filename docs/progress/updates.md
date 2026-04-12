@@ -634,3 +634,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 630: Recorded pass 7 progress note about the environment examples.
 - Update 631: Recorded pass 7 progress note about the build outputs.
 - Update 632: Recorded pass 7 progress note about the development scripts.
+- Update 633: Recorded pass 7 progress note about the Vite proxy behavior.
