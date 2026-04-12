@@ -647,3 +647,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 643: Recorded pass 7 progress note about the response formatting.
 - Update 644: Recorded pass 7 progress note about the session recovery.
 - Update 645: Recorded pass 7 progress note about the route protection.
+- Update 646: Recorded pass 7 progress note about the chat history loading.
