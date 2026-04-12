@@ -608,3 +608,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 604: Recorded pass 7 progress note about the chat header.
 - Update 605: Recorded pass 7 progress note about the chat message renderer.
 - Update 606: Recorded pass 7 progress note about the empty state.
+- Update 607: Recorded pass 7 progress note about the sidebar interactions.
