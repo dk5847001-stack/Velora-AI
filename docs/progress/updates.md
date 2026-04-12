@@ -682,3 +682,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 678: Recorded pass 7 progress note about the dependency boundaries.
 - Update 679: Recorded pass 7 progress note about the frontend state flow.
 - Update 680: Recorded pass 7 progress note about the backend service boundaries.
+- Update 681: Recorded pass 7 progress note about the error messages.
