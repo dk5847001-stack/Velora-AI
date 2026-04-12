@@ -612,3 +612,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 608: Recorded pass 7 progress note about the auth context.
 - Update 609: Recorded pass 7 progress note about the API client setup.
 - Update 610: Recorded pass 7 progress note about the format helpers.
+- Update 611: Recorded pass 7 progress note about the server bootstrap.
