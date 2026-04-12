@@ -658,3 +658,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 654: Recorded pass 7 progress note about the component naming.
 - Update 655: Recorded pass 7 progress note about the folder structure.
 - Update 656: Recorded pass 7 progress note about the API route surface.
+- Update 657: Recorded pass 7 progress note about the deployment assumptions.
