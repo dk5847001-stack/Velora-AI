@@ -615,3 +615,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 611: Recorded pass 7 progress note about the server bootstrap.
 - Update 612: Recorded pass 7 progress note about the Express app wiring.
 - Update 613: Recorded pass 7 progress note about the database connection.
+- Update 614: Recorded pass 7 progress note about the auth controller.
