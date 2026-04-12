@@ -702,3 +702,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 698: Recorded pass 7 progress note about the safe commit cadence.
 - Update 699: Recorded pass 7 progress note about the change log structure.
 - Update 700: Recorded pass 7 progress note about the documentation coverage.
+- Update 701: Recorded pass 8 progress note about the client app shell.
