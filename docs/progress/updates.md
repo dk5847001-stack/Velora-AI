@@ -683,3 +683,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 679: Recorded pass 7 progress note about the frontend state flow.
 - Update 680: Recorded pass 7 progress note about the backend service boundaries.
 - Update 681: Recorded pass 7 progress note about the error messages.
+- Update 682: Recorded pass 7 progress note about the API fallback paths.
