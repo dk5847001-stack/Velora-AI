@@ -616,3 +616,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 612: Recorded pass 7 progress note about the Express app wiring.
 - Update 613: Recorded pass 7 progress note about the database connection.
 - Update 614: Recorded pass 7 progress note about the auth controller.
+- Update 615: Recorded pass 7 progress note about the chat controller.
