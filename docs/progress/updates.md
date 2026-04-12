@@ -632,3 +632,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 628: Recorded pass 7 progress note about the token generation.
 - Update 629: Recorded pass 7 progress note about the README setup steps.
 - Update 630: Recorded pass 7 progress note about the environment examples.
+- Update 631: Recorded pass 7 progress note about the build outputs.
