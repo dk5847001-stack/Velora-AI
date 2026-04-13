@@ -759,3 +759,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 755: Recorded pass 8 progress note about the folder structure.
 - Update 756: Recorded pass 8 progress note about the API route surface.
 - Update 757: Recorded pass 8 progress note about the deployment assumptions.
+- Update 758: Recorded pass 8 progress note about the local demo mode.
