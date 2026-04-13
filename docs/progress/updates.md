@@ -806,3 +806,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 802: Recorded pass 9 progress note about the client auth flow.
 - Update 803: Recorded pass 9 progress note about the chat composer.
 - Update 804: Recorded pass 9 progress note about the chat header.
+- Update 805: Recorded pass 9 progress note about the chat message renderer.
