@@ -739,3 +739,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 735: Recorded pass 8 progress note about the Mongo persistence.
 - Update 736: Recorded pass 8 progress note about the Markdown rendering.
 - Update 737: Recorded pass 8 progress note about the syntax highlighting.
+- Update 738: Recorded pass 8 progress note about the mobile layout.
