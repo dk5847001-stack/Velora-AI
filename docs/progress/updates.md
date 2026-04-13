@@ -769,3 +769,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 765: Recorded pass 8 progress note about the environment variable usage.
 - Update 766: Recorded pass 8 progress note about the port configuration.
 - Update 767: Recorded pass 8 progress note about the client entry point.
+- Update 768: Recorded pass 8 progress note about the server entry point.
