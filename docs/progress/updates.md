@@ -765,3 +765,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 761: Recorded pass 8 progress note about the new chat creation.
 - Update 762: Recorded pass 8 progress note about the message submit path.
 - Update 763: Recorded pass 8 progress note about the copy button behavior.
+- Update 764: Recorded pass 8 progress note about the scroll behavior.
