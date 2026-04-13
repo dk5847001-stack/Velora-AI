@@ -761,3 +761,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 757: Recorded pass 8 progress note about the deployment assumptions.
 - Update 758: Recorded pass 8 progress note about the local demo mode.
 - Update 759: Recorded pass 8 progress note about the history sidebar.
+- Update 760: Recorded pass 8 progress note about the chat deletion flow.
