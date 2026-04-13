@@ -731,3 +731,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 727: Recorded pass 8 progress note about the async utilities.
 - Update 728: Recorded pass 8 progress note about the token generation.
 - Update 729: Recorded pass 8 progress note about the README setup steps.
+- Update 730: Recorded pass 8 progress note about the environment examples.
