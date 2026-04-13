@@ -750,3 +750,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 746: Recorded pass 8 progress note about the chat history loading.
 - Update 747: Recorded pass 8 progress note about the message persistence.
 - Update 748: Recorded pass 8 progress note about the AI fallback handling.
+- Update 749: Recorded pass 8 progress note about the logout behavior.
