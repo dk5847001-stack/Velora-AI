@@ -712,3 +712,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 708: Recorded pass 8 progress note about the auth context.
 - Update 709: Recorded pass 8 progress note about the API client setup.
 - Update 710: Recorded pass 8 progress note about the format helpers.
+- Update 711: Recorded pass 8 progress note about the server bootstrap.
