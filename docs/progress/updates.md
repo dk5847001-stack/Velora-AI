@@ -722,3 +722,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 718: Recorded pass 8 progress note about the chat model.
 - Update 719: Recorded pass 8 progress note about the user model.
 - Update 720: Recorded pass 8 progress note about the auth routes.
+- Update 721: Recorded pass 8 progress note about the chat routes.
