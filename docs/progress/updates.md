@@ -710,3 +710,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 706: Recorded pass 8 progress note about the empty state.
 - Update 707: Recorded pass 8 progress note about the sidebar interactions.
 - Update 708: Recorded pass 8 progress note about the auth context.
+- Update 709: Recorded pass 8 progress note about the API client setup.
