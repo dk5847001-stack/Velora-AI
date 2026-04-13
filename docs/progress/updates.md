@@ -733,3 +733,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 729: Recorded pass 8 progress note about the README setup steps.
 - Update 730: Recorded pass 8 progress note about the environment examples.
 - Update 731: Recorded pass 8 progress note about the build outputs.
+- Update 732: Recorded pass 8 progress note about the development scripts.
