@@ -791,3 +791,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 787: Recorded pass 8 progress note about the server routing.
 - Update 788: Recorded pass 8 progress note about the modular file layout.
 - Update 789: Recorded pass 8 progress note about the project overview.
+- Update 790: Recorded pass 8 progress note about the feature list.
