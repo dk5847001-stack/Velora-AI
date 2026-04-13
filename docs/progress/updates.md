@@ -767,3 +767,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 763: Recorded pass 8 progress note about the copy button behavior.
 - Update 764: Recorded pass 8 progress note about the scroll behavior.
 - Update 765: Recorded pass 8 progress note about the environment variable usage.
+- Update 766: Recorded pass 8 progress note about the port configuration.
