@@ -727,3 +727,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 723: Recorded pass 8 progress note about the demo assistant.
 - Update 724: Recorded pass 8 progress note about the local knowledge service.
 - Update 725: Recorded pass 8 progress note about the math assistant.
+- Update 726: Recorded pass 8 progress note about the OpenAI service.
