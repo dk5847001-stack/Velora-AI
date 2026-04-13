@@ -781,3 +781,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 777: Recorded pass 8 progress note about the package scripts.
 - Update 778: Recorded pass 8 progress note about the dependency boundaries.
 - Update 779: Recorded pass 8 progress note about the frontend state flow.
+- Update 780: Recorded pass 8 progress note about the backend service boundaries.
