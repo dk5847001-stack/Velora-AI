@@ -772,3 +772,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 768: Recorded pass 8 progress note about the server entry point.
 - Update 769: Recorded pass 8 progress note about the Mongoose models.
 - Update 770: Recorded pass 8 progress note about the React pages.
+- Update 771: Recorded pass 8 progress note about the shared utilities.
