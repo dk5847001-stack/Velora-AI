@@ -798,3 +798,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 794: Recorded pass 8 progress note about the troubleshooting notes.
 - Update 795: Recorded pass 8 progress note about the developer onboarding.
 - Update 796: Recorded pass 8 progress note about the release notes.
+- Update 797: Recorded pass 8 progress note about the repo hygiene.
