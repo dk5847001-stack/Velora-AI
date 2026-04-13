@@ -802,3 +802,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 798: Recorded pass 8 progress note about the safe commit cadence.
 - Update 799: Recorded pass 8 progress note about the change log structure.
 - Update 800: Recorded pass 8 progress note about the documentation coverage.
+- Update 801: Recorded pass 9 progress note about the client app shell.
