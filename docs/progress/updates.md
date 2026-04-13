@@ -789,3 +789,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 785: Recorded pass 8 progress note about the request auth headers.
 - Update 786: Recorded pass 8 progress note about the client routing.
 - Update 787: Recorded pass 8 progress note about the server routing.
+- Update 788: Recorded pass 8 progress note about the modular file layout.
