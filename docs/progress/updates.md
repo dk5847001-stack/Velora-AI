@@ -756,3 +756,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 752: Recorded pass 8 progress note about the form feedback.
 - Update 753: Recorded pass 8 progress note about the placeholder copy.
 - Update 754: Recorded pass 8 progress note about the component naming.
+- Update 755: Recorded pass 8 progress note about the folder structure.
