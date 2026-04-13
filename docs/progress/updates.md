@@ -797,3 +797,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 793: Recorded pass 8 progress note about the future backlog.
 - Update 794: Recorded pass 8 progress note about the troubleshooting notes.
 - Update 795: Recorded pass 8 progress note about the developer onboarding.
+- Update 796: Recorded pass 8 progress note about the release notes.
