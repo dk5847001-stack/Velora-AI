@@ -763,3 +763,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 759: Recorded pass 8 progress note about the history sidebar.
 - Update 760: Recorded pass 8 progress note about the chat deletion flow.
 - Update 761: Recorded pass 8 progress note about the new chat creation.
+- Update 762: Recorded pass 8 progress note about the message submit path.
