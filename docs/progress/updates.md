@@ -787,3 +787,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 783: Recorded pass 8 progress note about the response timing notes.
 - Update 784: Recorded pass 8 progress note about the prompt handling.
 - Update 785: Recorded pass 8 progress note about the request auth headers.
+- Update 786: Recorded pass 8 progress note about the client routing.
