@@ -778,3 +778,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 774: Recorded pass 8 progress note about the runbook details.
 - Update 775: Recorded pass 8 progress note about the debug logs hygiene.
 - Update 776: Recorded pass 8 progress note about the production build notes.
+- Update 777: Recorded pass 8 progress note about the package scripts.
