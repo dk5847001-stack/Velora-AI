@@ -746,3 +746,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 742: Recorded pass 8 progress note about the request validation.
 - Update 743: Recorded pass 8 progress note about the response formatting.
 - Update 744: Recorded pass 8 progress note about the session recovery.
+- Update 745: Recorded pass 8 progress note about the route protection.
