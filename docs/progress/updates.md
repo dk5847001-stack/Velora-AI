@@ -715,3 +715,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 711: Recorded pass 8 progress note about the server bootstrap.
 - Update 712: Recorded pass 8 progress note about the Express app wiring.
 - Update 713: Recorded pass 8 progress note about the database connection.
+- Update 714: Recorded pass 8 progress note about the auth controller.
