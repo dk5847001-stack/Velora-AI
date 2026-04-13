@@ -785,3 +785,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 781: Recorded pass 8 progress note about the error messages.
 - Update 782: Recorded pass 8 progress note about the API fallback paths.
 - Update 783: Recorded pass 8 progress note about the response timing notes.
+- Update 784: Recorded pass 8 progress note about the prompt handling.
