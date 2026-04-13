@@ -725,3 +725,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 721: Recorded pass 8 progress note about the chat routes.
 - Update 722: Recorded pass 8 progress note about the assistant service.
 - Update 723: Recorded pass 8 progress note about the demo assistant.
+- Update 724: Recorded pass 8 progress note about the local knowledge service.
