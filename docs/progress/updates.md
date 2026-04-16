@@ -856,3 +856,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 852: Recorded pass 9 progress note about the form feedback.
 - Update 853: Recorded pass 9 progress note about the placeholder copy.
 - Update 854: Recorded pass 9 progress note about the component naming.
+- Update 855: Recorded pass 9 progress note about the folder structure.
