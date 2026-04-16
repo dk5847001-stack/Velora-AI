@@ -904,3 +904,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 900: Recorded pass 9 progress note about the documentation coverage.
 - Update 901: Recorded pass 10 progress note about the client app shell.
 - Update 902: Recorded pass 10 progress note about the client auth flow.
+- Update 903: Recorded pass 10 progress note about the chat composer.
