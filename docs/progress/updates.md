@@ -834,3 +834,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 830: Recorded pass 9 progress note about the environment examples.
 - Update 831: Recorded pass 9 progress note about the build outputs.
 - Update 832: Recorded pass 9 progress note about the development scripts.
+- Update 833: Recorded pass 9 progress note about the Vite proxy behavior.
