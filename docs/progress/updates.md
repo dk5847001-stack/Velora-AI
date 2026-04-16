@@ -814,3 +814,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 810: Recorded pass 9 progress note about the format helpers.
 - Update 811: Recorded pass 9 progress note about the server bootstrap.
 - Update 812: Recorded pass 9 progress note about the Express app wiring.
+- Update 813: Recorded pass 9 progress note about the database connection.
