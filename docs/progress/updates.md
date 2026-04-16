@@ -862,3 +862,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 858: Recorded pass 9 progress note about the local demo mode.
 - Update 859: Recorded pass 9 progress note about the history sidebar.
 - Update 860: Recorded pass 9 progress note about the chat deletion flow.
+- Update 861: Recorded pass 9 progress note about the new chat creation.
