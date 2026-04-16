@@ -851,3 +851,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 847: Recorded pass 9 progress note about the message persistence.
 - Update 848: Recorded pass 9 progress note about the AI fallback handling.
 - Update 849: Recorded pass 9 progress note about the logout behavior.
+- Update 850: Recorded pass 9 progress note about the signup flow.
