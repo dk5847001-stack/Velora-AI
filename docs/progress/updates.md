@@ -895,3 +895,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 891: Recorded pass 9 progress note about the testing gaps.
 - Update 892: Recorded pass 9 progress note about the maintenance checklist.
 - Update 893: Recorded pass 9 progress note about the future backlog.
+- Update 894: Recorded pass 9 progress note about the troubleshooting notes.
