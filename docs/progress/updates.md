@@ -830,3 +830,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 826: Recorded pass 9 progress note about the OpenAI service.
 - Update 827: Recorded pass 9 progress note about the async utilities.
 - Update 828: Recorded pass 9 progress note about the token generation.
+- Update 829: Recorded pass 9 progress note about the README setup steps.
