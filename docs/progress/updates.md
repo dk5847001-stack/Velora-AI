@@ -865,3 +865,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 861: Recorded pass 9 progress note about the new chat creation.
 - Update 862: Recorded pass 9 progress note about the message submit path.
 - Update 863: Recorded pass 9 progress note about the copy button behavior.
+- Update 864: Recorded pass 9 progress note about the scroll behavior.
