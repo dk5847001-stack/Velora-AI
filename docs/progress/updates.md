@@ -833,3 +833,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 829: Recorded pass 9 progress note about the README setup steps.
 - Update 830: Recorded pass 9 progress note about the environment examples.
 - Update 831: Recorded pass 9 progress note about the build outputs.
+- Update 832: Recorded pass 9 progress note about the development scripts.
