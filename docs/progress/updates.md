@@ -891,3 +891,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 887: Recorded pass 9 progress note about the server routing.
 - Update 888: Recorded pass 9 progress note about the modular file layout.
 - Update 889: Recorded pass 9 progress note about the project overview.
+- Update 890: Recorded pass 9 progress note about the feature list.
