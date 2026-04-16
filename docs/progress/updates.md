@@ -809,3 +809,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 805: Recorded pass 9 progress note about the chat message renderer.
 - Update 806: Recorded pass 9 progress note about the empty state.
 - Update 807: Recorded pass 9 progress note about the sidebar interactions.
+- Update 808: Recorded pass 9 progress note about the auth context.
