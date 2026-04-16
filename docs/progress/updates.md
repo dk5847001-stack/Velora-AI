@@ -818,3 +818,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 814: Recorded pass 9 progress note about the auth controller.
 - Update 815: Recorded pass 9 progress note about the chat controller.
 - Update 816: Recorded pass 9 progress note about the auth middleware.
+- Update 817: Recorded pass 9 progress note about the error middleware.
