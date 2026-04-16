@@ -868,3 +868,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 864: Recorded pass 9 progress note about the scroll behavior.
 - Update 865: Recorded pass 9 progress note about the environment variable usage.
 - Update 866: Recorded pass 9 progress note about the port configuration.
+- Update 867: Recorded pass 9 progress note about the client entry point.
