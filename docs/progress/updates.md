@@ -812,3 +812,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 808: Recorded pass 9 progress note about the auth context.
 - Update 809: Recorded pass 9 progress note about the API client setup.
 - Update 810: Recorded pass 9 progress note about the format helpers.
+- Update 811: Recorded pass 9 progress note about the server bootstrap.
