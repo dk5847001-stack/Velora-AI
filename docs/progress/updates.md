@@ -876,3 +876,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 872: Recorded pass 9 progress note about the documentation tone.
 - Update 873: Recorded pass 9 progress note about the setup clarity.
 - Update 874: Recorded pass 9 progress note about the runbook details.
+- Update 875: Recorded pass 9 progress note about the debug logs hygiene.
