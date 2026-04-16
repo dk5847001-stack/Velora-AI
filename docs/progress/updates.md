@@ -886,3 +886,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 882: Recorded pass 9 progress note about the API fallback paths.
 - Update 883: Recorded pass 9 progress note about the response timing notes.
 - Update 884: Recorded pass 9 progress note about the prompt handling.
+- Update 885: Recorded pass 9 progress note about the request auth headers.
