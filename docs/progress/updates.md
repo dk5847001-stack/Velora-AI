@@ -828,3 +828,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 824: Recorded pass 9 progress note about the local knowledge service.
 - Update 825: Recorded pass 9 progress note about the math assistant.
 - Update 826: Recorded pass 9 progress note about the OpenAI service.
+- Update 827: Recorded pass 9 progress note about the async utilities.
