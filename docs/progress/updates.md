@@ -849,3 +849,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 845: Recorded pass 9 progress note about the route protection.
 - Update 846: Recorded pass 9 progress note about the chat history loading.
 - Update 847: Recorded pass 9 progress note about the message persistence.
+- Update 848: Recorded pass 9 progress note about the AI fallback handling.
