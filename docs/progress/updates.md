@@ -840,3 +840,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 836: Recorded pass 9 progress note about the Markdown rendering.
 - Update 837: Recorded pass 9 progress note about the syntax highlighting.
 - Update 838: Recorded pass 9 progress note about the mobile layout.
+- Update 839: Recorded pass 9 progress note about the desktop layout.
