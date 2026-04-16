@@ -844,3 +844,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 840: Recorded pass 9 progress note about the loading states.
 - Update 841: Recorded pass 9 progress note about the error handling.
 - Update 842: Recorded pass 9 progress note about the request validation.
+- Update 843: Recorded pass 9 progress note about the response formatting.
