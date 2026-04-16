@@ -825,3 +825,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 821: Recorded pass 9 progress note about the chat routes.
 - Update 822: Recorded pass 9 progress note about the assistant service.
 - Update 823: Recorded pass 9 progress note about the demo assistant.
+- Update 824: Recorded pass 9 progress note about the local knowledge service.
