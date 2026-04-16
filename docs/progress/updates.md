@@ -909,3 +909,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 905: Recorded pass 10 progress note about the chat message renderer.
 - Update 906: Recorded pass 10 progress note about the empty state.
 - Update 907: Recorded pass 10 progress note about the sidebar interactions.
+- Update 908: Recorded pass 10 progress note about the auth context.
