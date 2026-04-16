@@ -847,3 +847,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 843: Recorded pass 9 progress note about the response formatting.
 - Update 844: Recorded pass 9 progress note about the session recovery.
 - Update 845: Recorded pass 9 progress note about the route protection.
+- Update 846: Recorded pass 9 progress note about the chat history loading.
