@@ -971,3 +971,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 967: Recorded pass 10 progress note about the client entry point.
 - Update 968: Recorded pass 10 progress note about the server entry point.
 - Update 969: Recorded pass 10 progress note about the Mongoose models.
+- Update 970: Recorded pass 10 progress note about the React pages.
