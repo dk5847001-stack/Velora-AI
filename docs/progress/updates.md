@@ -944,3 +944,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 940: Recorded pass 10 progress note about the loading states.
 - Update 941: Recorded pass 10 progress note about the error handling.
 - Update 942: Recorded pass 10 progress note about the request validation.
+- Update 943: Recorded pass 10 progress note about the response formatting.
