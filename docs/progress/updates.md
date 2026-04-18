@@ -942,3 +942,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 938: Recorded pass 10 progress note about the mobile layout.
 - Update 939: Recorded pass 10 progress note about the desktop layout.
 - Update 940: Recorded pass 10 progress note about the loading states.
+- Update 941: Recorded pass 10 progress note about the error handling.
