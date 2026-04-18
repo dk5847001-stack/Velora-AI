@@ -925,3 +925,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 921: Recorded pass 10 progress note about the chat routes.
 - Update 922: Recorded pass 10 progress note about the assistant service.
 - Update 923: Recorded pass 10 progress note about the demo assistant.
+- Update 924: Recorded pass 10 progress note about the local knowledge service.
