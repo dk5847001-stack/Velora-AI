@@ -938,3 +938,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 934: Recorded pass 10 progress note about the JWT token lifecycle.
 - Update 935: Recorded pass 10 progress note about the Mongo persistence.
 - Update 936: Recorded pass 10 progress note about the Markdown rendering.
+- Update 937: Recorded pass 10 progress note about the syntax highlighting.
