@@ -968,3 +968,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 964: Recorded pass 10 progress note about the scroll behavior.
 - Update 965: Recorded pass 10 progress note about the environment variable usage.
 - Update 966: Recorded pass 10 progress note about the port configuration.
+- Update 967: Recorded pass 10 progress note about the client entry point.
