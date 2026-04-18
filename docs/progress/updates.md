@@ -987,3 +987,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 983: Recorded pass 10 progress note about the response timing notes.
 - Update 984: Recorded pass 10 progress note about the prompt handling.
 - Update 985: Recorded pass 10 progress note about the request auth headers.
+- Update 986: Recorded pass 10 progress note about the client routing.
