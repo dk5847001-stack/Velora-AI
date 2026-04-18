@@ -958,3 +958,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 954: Recorded pass 10 progress note about the component naming.
 - Update 955: Recorded pass 10 progress note about the folder structure.
 - Update 956: Recorded pass 10 progress note about the API route surface.
+- Update 957: Recorded pass 10 progress note about the deployment assumptions.
