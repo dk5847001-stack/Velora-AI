@@ -914,3 +914,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 910: Recorded pass 10 progress note about the format helpers.
 - Update 911: Recorded pass 10 progress note about the server bootstrap.
 - Update 912: Recorded pass 10 progress note about the Express app wiring.
+- Update 913: Recorded pass 10 progress note about the database connection.
