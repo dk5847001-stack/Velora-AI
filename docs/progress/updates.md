@@ -931,3 +931,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 927: Recorded pass 10 progress note about the async utilities.
 - Update 928: Recorded pass 10 progress note about the token generation.
 - Update 929: Recorded pass 10 progress note about the README setup steps.
+- Update 930: Recorded pass 10 progress note about the environment examples.
