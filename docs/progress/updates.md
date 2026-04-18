@@ -1002,3 +1002,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 998: Recorded pass 10 progress note about the safe commit cadence.
 - Update 999: Recorded pass 10 progress note about the change log structure.
 - Update 1000: Recorded pass 10 progress note about the documentation coverage.
+- Update 1001: Recorded pass 11 progress note about the client app shell.
