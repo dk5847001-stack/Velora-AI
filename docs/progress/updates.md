@@ -975,3 +975,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 971: Recorded pass 10 progress note about the shared utilities.
 - Update 972: Recorded pass 10 progress note about the documentation tone.
 - Update 973: Recorded pass 10 progress note about the setup clarity.
+- Update 974: Recorded pass 10 progress note about the runbook details.
