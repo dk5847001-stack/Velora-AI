@@ -1004,3 +1004,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1000: Recorded pass 10 progress note about the documentation coverage.
 - Update 1001: Recorded pass 11 progress note about the client app shell.
 - Update 1002: Recorded pass 11 progress note about the client auth flow.
+- Update 1003: Recorded pass 11 progress note about the chat composer.
