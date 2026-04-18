@@ -941,3 +941,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 937: Recorded pass 10 progress note about the syntax highlighting.
 - Update 938: Recorded pass 10 progress note about the mobile layout.
 - Update 939: Recorded pass 10 progress note about the desktop layout.
+- Update 940: Recorded pass 10 progress note about the loading states.
