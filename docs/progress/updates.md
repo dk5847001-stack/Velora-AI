@@ -921,3 +921,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 917: Recorded pass 10 progress note about the error middleware.
 - Update 918: Recorded pass 10 progress note about the chat model.
 - Update 919: Recorded pass 10 progress note about the user model.
+- Update 920: Recorded pass 10 progress note about the auth routes.
