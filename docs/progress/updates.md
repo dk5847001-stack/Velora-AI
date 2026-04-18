@@ -946,3 +946,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 942: Recorded pass 10 progress note about the request validation.
 - Update 943: Recorded pass 10 progress note about the response formatting.
 - Update 944: Recorded pass 10 progress note about the session recovery.
+- Update 945: Recorded pass 10 progress note about the route protection.
