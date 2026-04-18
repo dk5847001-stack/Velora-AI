@@ -912,3 +912,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 908: Recorded pass 10 progress note about the auth context.
 - Update 909: Recorded pass 10 progress note about the API client setup.
 - Update 910: Recorded pass 10 progress note about the format helpers.
+- Update 911: Recorded pass 10 progress note about the server bootstrap.
