@@ -948,3 +948,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 944: Recorded pass 10 progress note about the session recovery.
 - Update 945: Recorded pass 10 progress note about the route protection.
 - Update 946: Recorded pass 10 progress note about the chat history loading.
+- Update 947: Recorded pass 10 progress note about the message persistence.
