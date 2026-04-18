@@ -933,3 +933,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 929: Recorded pass 10 progress note about the README setup steps.
 - Update 930: Recorded pass 10 progress note about the environment examples.
 - Update 931: Recorded pass 10 progress note about the build outputs.
+- Update 932: Recorded pass 10 progress note about the development scripts.
