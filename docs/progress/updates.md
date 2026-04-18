@@ -983,3 +983,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 979: Recorded pass 10 progress note about the frontend state flow.
 - Update 980: Recorded pass 10 progress note about the backend service boundaries.
 - Update 981: Recorded pass 10 progress note about the error messages.
+- Update 982: Recorded pass 10 progress note about the API fallback paths.
