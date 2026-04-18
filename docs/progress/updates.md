@@ -964,3 +964,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 960: Recorded pass 10 progress note about the chat deletion flow.
 - Update 961: Recorded pass 10 progress note about the new chat creation.
 - Update 962: Recorded pass 10 progress note about the message submit path.
+- Update 963: Recorded pass 10 progress note about the copy button behavior.
