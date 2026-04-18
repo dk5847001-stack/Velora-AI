@@ -995,3 +995,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 991: Recorded pass 10 progress note about the testing gaps.
 - Update 992: Recorded pass 10 progress note about the maintenance checklist.
 - Update 993: Recorded pass 10 progress note about the future backlog.
+- Update 994: Recorded pass 10 progress note about the troubleshooting notes.
