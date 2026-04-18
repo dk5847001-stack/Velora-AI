@@ -950,3 +950,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 946: Recorded pass 10 progress note about the chat history loading.
 - Update 947: Recorded pass 10 progress note about the message persistence.
 - Update 948: Recorded pass 10 progress note about the AI fallback handling.
+- Update 949: Recorded pass 10 progress note about the logout behavior.
