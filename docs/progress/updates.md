@@ -939,3 +939,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 935: Recorded pass 10 progress note about the Mongo persistence.
 - Update 936: Recorded pass 10 progress note about the Markdown rendering.
 - Update 937: Recorded pass 10 progress note about the syntax highlighting.
+- Update 938: Recorded pass 10 progress note about the mobile layout.
