@@ -970,3 +970,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 966: Recorded pass 10 progress note about the port configuration.
 - Update 967: Recorded pass 10 progress note about the client entry point.
 - Update 968: Recorded pass 10 progress note about the server entry point.
+- Update 969: Recorded pass 10 progress note about the Mongoose models.
