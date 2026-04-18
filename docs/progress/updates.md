@@ -973,3 +973,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 969: Recorded pass 10 progress note about the Mongoose models.
 - Update 970: Recorded pass 10 progress note about the React pages.
 - Update 971: Recorded pass 10 progress note about the shared utilities.
+- Update 972: Recorded pass 10 progress note about the documentation tone.
