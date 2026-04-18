@@ -952,3 +952,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 948: Recorded pass 10 progress note about the AI fallback handling.
 - Update 949: Recorded pass 10 progress note about the logout behavior.
 - Update 950: Recorded pass 10 progress note about the signup flow.
+- Update 951: Recorded pass 10 progress note about the login flow.
