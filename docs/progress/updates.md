@@ -1098,3 +1098,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1079: Recorded pass 11 progress note about the frontend state flow.
 - Update 1080: Recorded pass 11 progress note about the backend service boundaries.
 - Update 1081: Recorded pass 11 progress note about the error messages.
+- Update 1082: Recorded pass 11 progress note about the API fallback paths.
