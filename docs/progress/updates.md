@@ -1073,3 +1073,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1054: Recorded pass 11 progress note about the component naming.
 - Update 1055: Recorded pass 11 progress note about the folder structure.
 - Update 1056: Recorded pass 11 progress note about the API route surface.
+- Update 1057: Recorded pass 11 progress note about the deployment assumptions.
