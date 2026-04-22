@@ -1085,3 +1085,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1066: Recorded pass 11 progress note about the port configuration.
 - Update 1067: Recorded pass 11 progress note about the client entry point.
 - Update 1068: Recorded pass 11 progress note about the server entry point.
+- Update 1069: Recorded pass 11 progress note about the Mongoose models.
