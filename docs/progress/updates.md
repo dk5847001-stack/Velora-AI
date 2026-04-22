@@ -1102,3 +1102,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1083: Recorded pass 11 progress note about the response timing notes.
 - Update 1084: Recorded pass 11 progress note about the prompt handling.
 - Update 1085: Recorded pass 11 progress note about the request auth headers.
+- Update 1086: Recorded pass 11 progress note about the client routing.
