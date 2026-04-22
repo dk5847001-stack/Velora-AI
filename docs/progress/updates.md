@@ -1056,3 +1056,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1037: Recorded pass 11 progress note about the syntax highlighting.
 - Update 1038: Recorded pass 11 progress note about the mobile layout.
 - Update 1039: Recorded pass 11 progress note about the desktop layout.
+- Update 1040: Recorded pass 11 progress note about the loading states.
