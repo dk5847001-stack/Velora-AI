@@ -1083,3 +1083,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1064: Recorded pass 11 progress note about the scroll behavior.
 - Update 1065: Recorded pass 11 progress note about the environment variable usage.
 - Update 1066: Recorded pass 11 progress note about the port configuration.
+- Update 1067: Recorded pass 11 progress note about the client entry point.
