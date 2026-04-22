@@ -1090,3 +1090,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1071: Recorded pass 11 progress note about the shared utilities.
 - Update 1072: Recorded pass 11 progress note about the documentation tone.
 - Update 1073: Recorded pass 11 progress note about the setup clarity.
+- Update 1074: Recorded pass 11 progress note about the runbook details.
