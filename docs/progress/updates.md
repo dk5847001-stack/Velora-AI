@@ -1094,3 +1094,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1075: Recorded pass 11 progress note about the debug logs hygiene.
 - Update 1076: Recorded pass 11 progress note about the production build notes.
 - Update 1077: Recorded pass 11 progress note about the package scripts.
+- Update 1078: Recorded pass 11 progress note about the dependency boundaries.
