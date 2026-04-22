@@ -157,7 +157,7 @@ $commitMessages = @(
 $existingCount = 0
 
 if (Test-Path $ledgerPath) {
-  $existingCount = (Select-String -Path $ledgerPath -Pattern '^- Update \d{3}:' | Measure-Object).Count
+  $existingCount = (Select-String -Path $ledgerPath -Pattern '^- Update \d+:' | Measure-Object).Count
 }
 
 if ($existingCount -gt 0) {
