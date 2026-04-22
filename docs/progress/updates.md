@@ -1049,3 +1049,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1030: Recorded pass 11 progress note about the environment examples.
 - Update 1031: Recorded pass 11 progress note about the build outputs.
 - Update 1032: Recorded pass 11 progress note about the development scripts.
+- Update 1033: Recorded pass 11 progress note about the Vite proxy behavior.
