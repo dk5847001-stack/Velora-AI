@@ -1100,3 +1100,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1081: Recorded pass 11 progress note about the error messages.
 - Update 1082: Recorded pass 11 progress note about the API fallback paths.
 - Update 1083: Recorded pass 11 progress note about the response timing notes.
+- Update 1084: Recorded pass 11 progress note about the prompt handling.
