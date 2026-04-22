@@ -1046,3 +1046,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1027: Recorded pass 11 progress note about the async utilities.
 - Update 1028: Recorded pass 11 progress note about the token generation.
 - Update 1029: Recorded pass 11 progress note about the README setup steps.
+- Update 1030: Recorded pass 11 progress note about the environment examples.
