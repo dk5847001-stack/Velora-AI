@@ -1096,3 +1096,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1077: Recorded pass 11 progress note about the package scripts.
 - Update 1078: Recorded pass 11 progress note about the dependency boundaries.
 - Update 1079: Recorded pass 11 progress note about the frontend state flow.
+- Update 1080: Recorded pass 11 progress note about the backend service boundaries.
