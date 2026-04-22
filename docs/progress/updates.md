@@ -1080,3 +1080,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1061: Recorded pass 11 progress note about the new chat creation.
 - Update 1062: Recorded pass 11 progress note about the message submit path.
 - Update 1063: Recorded pass 11 progress note about the copy button behavior.
+- Update 1064: Recorded pass 11 progress note about the scroll behavior.
