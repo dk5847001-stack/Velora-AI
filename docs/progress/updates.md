@@ -1038,3 +1038,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1019: Recorded pass 11 progress note about the user model.
 - Update 1020: Recorded pass 11 progress note about the auth routes.
 - Update 1021: Recorded pass 11 progress note about the chat routes.
+- Update 1022: Recorded pass 11 progress note about the assistant service.
