@@ -1025,3 +1025,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1006: Recorded pass 11 progress note about the empty state.
 - Update 1007: Recorded pass 11 progress note about the sidebar interactions.
 - Update 1008: Recorded pass 11 progress note about the auth context.
+- Update 1009: Recorded pass 11 progress note about the API client setup.
