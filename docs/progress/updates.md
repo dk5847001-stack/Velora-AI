@@ -1107,3 +1107,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1088: Recorded pass 11 progress note about the modular file layout.
 - Update 1089: Recorded pass 11 progress note about the project overview.
 - Update 1090: Recorded pass 11 progress note about the feature list.
+- Update 1091: Recorded pass 11 progress note about the testing gaps.
