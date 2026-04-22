@@ -1036,3 +1036,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1017: Recorded pass 11 progress note about the error middleware.
 - Update 1018: Recorded pass 11 progress note about the chat model.
 - Update 1019: Recorded pass 11 progress note about the user model.
+- Update 1020: Recorded pass 11 progress note about the auth routes.
