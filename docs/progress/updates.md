@@ -1076,3 +1076,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1057: Recorded pass 11 progress note about the deployment assumptions.
 - Update 1058: Recorded pass 11 progress note about the local demo mode.
 - Update 1059: Recorded pass 11 progress note about the history sidebar.
+- Update 1060: Recorded pass 11 progress note about the chat deletion flow.
