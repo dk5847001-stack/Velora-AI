@@ -1088,3 +1088,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1069: Recorded pass 11 progress note about the Mongoose models.
 - Update 1070: Recorded pass 11 progress note about the React pages.
 - Update 1071: Recorded pass 11 progress note about the shared utilities.
+- Update 1072: Recorded pass 11 progress note about the documentation tone.
