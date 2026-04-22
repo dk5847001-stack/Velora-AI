@@ -1059,3 +1059,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1040: Recorded pass 11 progress note about the loading states.
 - Update 1041: Recorded pass 11 progress note about the error handling.
 - Update 1042: Recorded pass 11 progress note about the request validation.
+- Update 1043: Recorded pass 11 progress note about the response formatting.
