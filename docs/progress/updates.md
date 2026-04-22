@@ -1065,3 +1065,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1046: Recorded pass 11 progress note about the chat history loading.
 - Update 1047: Recorded pass 11 progress note about the message persistence.
 - Update 1048: Recorded pass 11 progress note about the AI fallback handling.
+- Update 1049: Recorded pass 11 progress note about the logout behavior.
