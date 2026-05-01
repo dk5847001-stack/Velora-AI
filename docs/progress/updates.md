@@ -1185,3 +1185,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1181: Recorded pass 12 progress note about the error messages.
 - Update 1182: Recorded pass 12 progress note about the API fallback paths.
 - Update 1183: Recorded pass 12 progress note about the response timing notes.
+- Update 1184: Recorded pass 12 progress note about the prompt handling.
