@@ -1122,3 +1122,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1118: Recorded pass 12 progress note about the chat model.
 - Update 1119: Recorded pass 12 progress note about the user model.
 - Update 1120: Recorded pass 12 progress note about the auth routes.
+- Update 1121: Recorded pass 12 progress note about the chat routes.
