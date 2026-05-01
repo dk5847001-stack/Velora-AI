@@ -1133,3 +1133,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1129: Recorded pass 12 progress note about the README setup steps.
 - Update 1130: Recorded pass 12 progress note about the environment examples.
 - Update 1131: Recorded pass 12 progress note about the build outputs.
+- Update 1132: Recorded pass 12 progress note about the development scripts.
