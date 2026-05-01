@@ -1141,3 +1141,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1137: Recorded pass 12 progress note about the syntax highlighting.
 - Update 1138: Recorded pass 12 progress note about the mobile layout.
 - Update 1139: Recorded pass 12 progress note about the desktop layout.
+- Update 1140: Recorded pass 12 progress note about the loading states.
