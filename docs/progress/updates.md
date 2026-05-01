@@ -1191,3 +1191,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1187: Recorded pass 12 progress note about the server routing.
 - Update 1188: Recorded pass 12 progress note about the modular file layout.
 - Update 1189: Recorded pass 12 progress note about the project overview.
+- Update 1190: Recorded pass 12 progress note about the feature list.
