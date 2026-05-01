@@ -1173,3 +1173,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1169: Recorded pass 12 progress note about the Mongoose models.
 - Update 1170: Recorded pass 12 progress note about the React pages.
 - Update 1171: Recorded pass 12 progress note about the shared utilities.
+- Update 1172: Recorded pass 12 progress note about the documentation tone.
