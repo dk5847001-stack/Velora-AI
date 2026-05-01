@@ -1167,3 +1167,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1163: Recorded pass 12 progress note about the copy button behavior.
 - Update 1164: Recorded pass 12 progress note about the scroll behavior.
 - Update 1165: Recorded pass 12 progress note about the environment variable usage.
+- Update 1166: Recorded pass 12 progress note about the port configuration.
