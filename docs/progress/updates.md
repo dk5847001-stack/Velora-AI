@@ -1182,3 +1182,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1178: Recorded pass 12 progress note about the dependency boundaries.
 - Update 1179: Recorded pass 12 progress note about the frontend state flow.
 - Update 1180: Recorded pass 12 progress note about the backend service boundaries.
+- Update 1181: Recorded pass 12 progress note about the error messages.
