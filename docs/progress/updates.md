@@ -1149,3 +1149,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1145: Recorded pass 12 progress note about the route protection.
 - Update 1146: Recorded pass 12 progress note about the chat history loading.
 - Update 1147: Recorded pass 12 progress note about the message persistence.
+- Update 1148: Recorded pass 12 progress note about the AI fallback handling.
