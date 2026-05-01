@@ -1206,3 +1206,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1202: Recorded pass 13 progress note about the client auth flow.
 - Update 1203: Recorded pass 13 progress note about the chat composer.
 - Update 1204: Recorded pass 13 progress note about the chat header.
+- Update 1205: Recorded pass 13 progress note about the chat message renderer.
