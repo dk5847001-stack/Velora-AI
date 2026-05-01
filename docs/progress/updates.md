@@ -1135,3 +1135,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1131: Recorded pass 12 progress note about the build outputs.
 - Update 1132: Recorded pass 12 progress note about the development scripts.
 - Update 1133: Recorded pass 12 progress note about the Vite proxy behavior.
+- Update 1134: Recorded pass 12 progress note about the JWT token lifecycle.
