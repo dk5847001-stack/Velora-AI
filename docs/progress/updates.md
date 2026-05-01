@@ -1118,3 +1118,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1099: Recorded pass 11 progress note about the change log structure.
 - Update 1100: Recorded pass 11 progress note about the documentation coverage.
 - Update 1116: Recorded pass 12 progress note about the auth middleware.
+- Update 1117: Recorded pass 12 progress note about the error middleware.
