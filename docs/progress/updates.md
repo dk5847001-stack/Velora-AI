@@ -1157,3 +1157,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1153: Recorded pass 12 progress note about the placeholder copy.
 - Update 1154: Recorded pass 12 progress note about the component naming.
 - Update 1155: Recorded pass 12 progress note about the folder structure.
+- Update 1156: Recorded pass 12 progress note about the API route surface.
