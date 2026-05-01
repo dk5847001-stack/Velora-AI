@@ -1150,3 +1150,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1146: Recorded pass 12 progress note about the chat history loading.
 - Update 1147: Recorded pass 12 progress note about the message persistence.
 - Update 1148: Recorded pass 12 progress note about the AI fallback handling.
+- Update 1149: Recorded pass 12 progress note about the logout behavior.
