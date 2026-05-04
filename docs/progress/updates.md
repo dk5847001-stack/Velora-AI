@@ -1237,3 +1237,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1233: Recorded pass 13 progress note about the Vite proxy behavior.
 - Update 1234: Recorded pass 13 progress note about the JWT token lifecycle.
 - Update 1235: Recorded pass 13 progress note about the Mongo persistence.
+- Update 1236: Recorded pass 13 progress note about the Markdown rendering.
