@@ -1275,3 +1275,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1271: Recorded pass 13 progress note about the shared utilities.
 - Update 1272: Recorded pass 13 progress note about the documentation tone.
 - Update 1273: Recorded pass 13 progress note about the setup clarity.
+- Update 1274: Recorded pass 13 progress note about the runbook details.
