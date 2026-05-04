@@ -1232,3 +1232,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1228: Recorded pass 13 progress note about the token generation.
 - Update 1229: Recorded pass 13 progress note about the README setup steps.
 - Update 1230: Recorded pass 13 progress note about the environment examples.
+- Update 1231: Recorded pass 13 progress note about the build outputs.
