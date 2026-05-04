@@ -1224,3 +1224,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1220: Recorded pass 13 progress note about the auth routes.
 - Update 1221: Recorded pass 13 progress note about the chat routes.
 - Update 1222: Recorded pass 13 progress note about the assistant service.
+- Update 1223: Recorded pass 13 progress note about the demo assistant.
