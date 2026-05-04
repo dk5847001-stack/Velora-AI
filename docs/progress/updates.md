@@ -1249,3 +1249,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1245: Recorded pass 13 progress note about the route protection.
 - Update 1246: Recorded pass 13 progress note about the chat history loading.
 - Update 1247: Recorded pass 13 progress note about the message persistence.
+- Update 1248: Recorded pass 13 progress note about the AI fallback handling.
