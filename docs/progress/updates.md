@@ -1240,3 +1240,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1236: Recorded pass 13 progress note about the Markdown rendering.
 - Update 1237: Recorded pass 13 progress note about the syntax highlighting.
 - Update 1238: Recorded pass 13 progress note about the mobile layout.
+- Update 1239: Recorded pass 13 progress note about the desktop layout.
