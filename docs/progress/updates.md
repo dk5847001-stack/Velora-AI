@@ -1228,3 +1228,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1224: Recorded pass 13 progress note about the local knowledge service.
 - Update 1225: Recorded pass 13 progress note about the math assistant.
 - Update 1226: Recorded pass 13 progress note about the OpenAI service.
+- Update 1227: Recorded pass 13 progress note about the async utilities.
