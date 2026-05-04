@@ -1213,3 +1213,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1209: Recorded pass 13 progress note about the API client setup.
 - Update 1210: Recorded pass 13 progress note about the format helpers.
 - Update 1211: Recorded pass 13 progress note about the server bootstrap.
+- Update 1212: Recorded pass 13 progress note about the Express app wiring.
