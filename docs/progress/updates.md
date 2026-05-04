@@ -1248,3 +1248,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1244: Recorded pass 13 progress note about the session recovery.
 - Update 1245: Recorded pass 13 progress note about the route protection.
 - Update 1246: Recorded pass 13 progress note about the chat history loading.
+- Update 1247: Recorded pass 13 progress note about the message persistence.
