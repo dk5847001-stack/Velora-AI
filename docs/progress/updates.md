@@ -1290,3 +1290,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1286: Recorded pass 13 progress note about the client routing.
 - Update 1287: Recorded pass 13 progress note about the server routing.
 - Update 1288: Recorded pass 13 progress note about the modular file layout.
+- Update 1289: Recorded pass 13 progress note about the project overview.
