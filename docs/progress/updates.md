@@ -1256,3 +1256,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1252: Recorded pass 13 progress note about the form feedback.
 - Update 1253: Recorded pass 13 progress note about the placeholder copy.
 - Update 1254: Recorded pass 13 progress note about the component naming.
+- Update 1255: Recorded pass 13 progress note about the folder structure.
