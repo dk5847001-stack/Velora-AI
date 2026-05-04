@@ -1277,3 +1277,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1273: Recorded pass 13 progress note about the setup clarity.
 - Update 1274: Recorded pass 13 progress note about the runbook details.
 - Update 1275: Recorded pass 13 progress note about the debug logs hygiene.
+- Update 1276: Recorded pass 13 progress note about the production build notes.
