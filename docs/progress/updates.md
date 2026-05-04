@@ -1286,3 +1286,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1282: Recorded pass 13 progress note about the API fallback paths.
 - Update 1283: Recorded pass 13 progress note about the response timing notes.
 - Update 1284: Recorded pass 13 progress note about the prompt handling.
+- Update 1285: Recorded pass 13 progress note about the request auth headers.
