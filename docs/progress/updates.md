@@ -1298,3 +1298,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1294: Recorded pass 13 progress note about the troubleshooting notes.
 - Update 1295: Recorded pass 13 progress note about the developer onboarding.
 - Update 1296: Recorded pass 13 progress note about the release notes.
+- Update 1297: Recorded pass 13 progress note about the repo hygiene.
