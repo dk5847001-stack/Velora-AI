@@ -1221,3 +1221,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1217: Recorded pass 13 progress note about the error middleware.
 - Update 1218: Recorded pass 13 progress note about the chat model.
 - Update 1219: Recorded pass 13 progress note about the user model.
+- Update 1220: Recorded pass 13 progress note about the auth routes.
