@@ -1252,3 +1252,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1248: Recorded pass 13 progress note about the AI fallback handling.
 - Update 1249: Recorded pass 13 progress note about the logout behavior.
 - Update 1250: Recorded pass 13 progress note about the signup flow.
+- Update 1251: Recorded pass 13 progress note about the login flow.
