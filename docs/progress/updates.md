@@ -1269,3 +1269,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1265: Recorded pass 13 progress note about the environment variable usage.
 - Update 1266: Recorded pass 13 progress note about the port configuration.
 - Update 1267: Recorded pass 13 progress note about the client entry point.
+- Update 1268: Recorded pass 13 progress note about the server entry point.
