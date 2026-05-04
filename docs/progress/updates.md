@@ -1309,3 +1309,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1305: Recorded pass 14 progress note about the chat message renderer.
 - Update 1306: Recorded pass 14 progress note about the empty state.
 - Update 1307: Recorded pass 14 progress note about the sidebar interactions.
+- Update 1308: Recorded pass 14 progress note about the auth context.
