@@ -1311,3 +1311,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1307: Recorded pass 14 progress note about the sidebar interactions.
 - Update 1308: Recorded pass 14 progress note about the auth context.
 - Update 1309: Recorded pass 14 progress note about the API client setup.
+- Update 1310: Recorded pass 14 progress note about the format helpers.
