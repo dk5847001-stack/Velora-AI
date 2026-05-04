@@ -1292,3 +1292,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1288: Recorded pass 13 progress note about the modular file layout.
 - Update 1289: Recorded pass 13 progress note about the project overview.
 - Update 1290: Recorded pass 13 progress note about the feature list.
+- Update 1291: Recorded pass 13 progress note about the testing gaps.
