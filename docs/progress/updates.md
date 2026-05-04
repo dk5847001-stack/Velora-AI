@@ -1242,3 +1242,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1238: Recorded pass 13 progress note about the mobile layout.
 - Update 1239: Recorded pass 13 progress note about the desktop layout.
 - Update 1240: Recorded pass 13 progress note about the loading states.
+- Update 1241: Recorded pass 13 progress note about the error handling.
