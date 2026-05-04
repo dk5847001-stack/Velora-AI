@@ -1262,3 +1262,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1258: Recorded pass 13 progress note about the local demo mode.
 - Update 1259: Recorded pass 13 progress note about the history sidebar.
 - Update 1260: Recorded pass 13 progress note about the chat deletion flow.
+- Update 1261: Recorded pass 13 progress note about the new chat creation.
