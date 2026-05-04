@@ -1272,3 +1272,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1268: Recorded pass 13 progress note about the server entry point.
 - Update 1269: Recorded pass 13 progress note about the Mongoose models.
 - Update 1270: Recorded pass 13 progress note about the React pages.
+- Update 1271: Recorded pass 13 progress note about the shared utilities.
