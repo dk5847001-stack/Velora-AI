@@ -1304,3 +1304,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1300: Recorded pass 13 progress note about the documentation coverage.
 - Update 1301: Recorded pass 14 progress note about the client app shell.
 - Update 1302: Recorded pass 14 progress note about the client auth flow.
+- Update 1303: Recorded pass 14 progress note about the chat composer.
