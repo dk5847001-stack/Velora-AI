@@ -1381,3 +1381,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1377: Recorded pass 14 progress note about the package scripts.
 - Update 1378: Recorded pass 14 progress note about the dependency boundaries.
 - Update 1379: Recorded pass 14 progress note about the frontend state flow.
+- Update 1380: Recorded pass 14 progress note about the backend service boundaries.
