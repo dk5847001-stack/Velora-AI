@@ -1425,3 +1425,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1421: Recorded pass 15 progress note about the chat routes.
 - Update 1422: Recorded pass 15 progress note about the assistant service.
 - Update 1423: Recorded pass 15 progress note about the demo assistant.
+- Update 1424: Recorded pass 15 progress note about the local knowledge service.
