@@ -1388,3 +1388,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1384: Recorded pass 14 progress note about the prompt handling.
 - Update 1385: Recorded pass 14 progress note about the request auth headers.
 - Update 1386: Recorded pass 14 progress note about the client routing.
+- Update 1387: Recorded pass 14 progress note about the server routing.
