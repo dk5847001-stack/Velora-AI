@@ -1405,3 +1405,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1401: Recorded pass 15 progress note about the client app shell.
 - Update 1402: Recorded pass 15 progress note about the client auth flow.
 - Update 1403: Recorded pass 15 progress note about the chat composer.
+- Update 1404: Recorded pass 15 progress note about the chat header.
