@@ -1344,3 +1344,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1340: Recorded pass 14 progress note about the loading states.
 - Update 1341: Recorded pass 14 progress note about the error handling.
 - Update 1342: Recorded pass 14 progress note about the request validation.
+- Update 1343: Recorded pass 14 progress note about the response formatting.
