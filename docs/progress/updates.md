@@ -1326,3 +1326,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1322: Recorded pass 14 progress note about the assistant service.
 - Update 1323: Recorded pass 14 progress note about the demo assistant.
 - Update 1324: Recorded pass 14 progress note about the local knowledge service.
+- Update 1325: Recorded pass 14 progress note about the math assistant.
