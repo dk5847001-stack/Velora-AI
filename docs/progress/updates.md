@@ -1398,3 +1398,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1394: Recorded pass 14 progress note about the troubleshooting notes.
 - Update 1395: Recorded pass 14 progress note about the developer onboarding.
 - Update 1396: Recorded pass 14 progress note about the release notes.
+- Update 1397: Recorded pass 14 progress note about the repo hygiene.
