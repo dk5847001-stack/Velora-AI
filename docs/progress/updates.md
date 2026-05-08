@@ -1366,3 +1366,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1362: Recorded pass 14 progress note about the message submit path.
 - Update 1363: Recorded pass 14 progress note about the copy button behavior.
 - Update 1364: Recorded pass 14 progress note about the scroll behavior.
+- Update 1365: Recorded pass 14 progress note about the environment variable usage.
