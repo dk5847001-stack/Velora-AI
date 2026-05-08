@@ -1385,3 +1385,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1381: Recorded pass 14 progress note about the error messages.
 - Update 1382: Recorded pass 14 progress note about the API fallback paths.
 - Update 1383: Recorded pass 14 progress note about the response timing notes.
+- Update 1384: Recorded pass 14 progress note about the prompt handling.
