@@ -1391,3 +1391,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1387: Recorded pass 14 progress note about the server routing.
 - Update 1388: Recorded pass 14 progress note about the modular file layout.
 - Update 1389: Recorded pass 14 progress note about the project overview.
+- Update 1390: Recorded pass 14 progress note about the feature list.
