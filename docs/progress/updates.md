@@ -1410,3 +1410,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1406: Recorded pass 15 progress note about the empty state.
 - Update 1407: Recorded pass 15 progress note about the sidebar interactions.
 - Update 1408: Recorded pass 15 progress note about the auth context.
+- Update 1409: Recorded pass 15 progress note about the API client setup.
