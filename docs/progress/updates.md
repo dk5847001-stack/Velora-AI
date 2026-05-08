@@ -1402,3 +1402,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1398: Recorded pass 14 progress note about the safe commit cadence.
 - Update 1399: Recorded pass 14 progress note about the change log structure.
 - Update 1400: Recorded pass 14 progress note about the documentation coverage.
+- Update 1401: Recorded pass 15 progress note about the client app shell.
