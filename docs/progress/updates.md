@@ -1348,3 +1348,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1344: Recorded pass 14 progress note about the session recovery.
 - Update 1345: Recorded pass 14 progress note about the route protection.
 - Update 1346: Recorded pass 14 progress note about the chat history loading.
+- Update 1347: Recorded pass 14 progress note about the message persistence.
