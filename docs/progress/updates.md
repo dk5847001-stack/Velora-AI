@@ -1359,3 +1359,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1355: Recorded pass 14 progress note about the folder structure.
 - Update 1356: Recorded pass 14 progress note about the API route surface.
 - Update 1357: Recorded pass 14 progress note about the deployment assumptions.
+- Update 1358: Recorded pass 14 progress note about the local demo mode.
