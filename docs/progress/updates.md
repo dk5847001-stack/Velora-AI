@@ -1375,3 +1375,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1371: Recorded pass 14 progress note about the shared utilities.
 - Update 1372: Recorded pass 14 progress note about the documentation tone.
 - Update 1373: Recorded pass 14 progress note about the setup clarity.
+- Update 1374: Recorded pass 14 progress note about the runbook details.
