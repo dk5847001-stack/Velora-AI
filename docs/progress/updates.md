@@ -1369,3 +1369,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1365: Recorded pass 14 progress note about the environment variable usage.
 - Update 1366: Recorded pass 14 progress note about the port configuration.
 - Update 1367: Recorded pass 14 progress note about the client entry point.
+- Update 1368: Recorded pass 14 progress note about the server entry point.
