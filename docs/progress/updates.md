@@ -1323,3 +1323,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1319: Recorded pass 14 progress note about the user model.
 - Update 1320: Recorded pass 14 progress note about the auth routes.
 - Update 1321: Recorded pass 14 progress note about the chat routes.
+- Update 1322: Recorded pass 14 progress note about the assistant service.
