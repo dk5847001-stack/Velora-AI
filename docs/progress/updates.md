@@ -1451,3 +1451,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1447: Recorded pass 15 progress note about the message persistence.
 - Update 1448: Recorded pass 15 progress note about the AI fallback handling.
 - Update 1449: Recorded pass 15 progress note about the logout behavior.
+- Update 1450: Recorded pass 15 progress note about the signup flow.
