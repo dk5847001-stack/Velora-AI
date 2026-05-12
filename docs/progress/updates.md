@@ -1504,3 +1504,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1500: Recorded pass 15 progress note about the documentation coverage.
 - Update 1501: Recorded pass 16 progress note about the client app shell.
 - Update 1502: Recorded pass 16 progress note about the client auth flow.
+- Update 1503: Recorded pass 16 progress note about the chat composer.
