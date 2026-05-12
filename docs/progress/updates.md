@@ -1521,3 +1521,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1517: Recorded pass 16 progress note about the error middleware.
 - Update 1518: Recorded pass 16 progress note about the chat model.
 - Update 1519: Recorded pass 16 progress note about the user model.
+- Update 1520: Recorded pass 16 progress note about the auth routes.
