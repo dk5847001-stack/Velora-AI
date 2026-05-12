@@ -1524,3 +1524,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1520: Recorded pass 16 progress note about the auth routes.
 - Update 1521: Recorded pass 16 progress note about the chat routes.
 - Update 1522: Recorded pass 16 progress note about the assistant service.
+- Update 1523: Recorded pass 16 progress note about the demo assistant.
