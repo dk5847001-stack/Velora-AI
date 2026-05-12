@@ -1531,3 +1531,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1527: Recorded pass 16 progress note about the async utilities.
 - Update 1528: Recorded pass 16 progress note about the token generation.
 - Update 1529: Recorded pass 16 progress note about the README setup steps.
+- Update 1530: Recorded pass 16 progress note about the environment examples.
