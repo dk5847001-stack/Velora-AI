@@ -1490,3 +1490,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1486: Recorded pass 15 progress note about the client routing.
 - Update 1487: Recorded pass 15 progress note about the server routing.
 - Update 1488: Recorded pass 15 progress note about the modular file layout.
+- Update 1489: Recorded pass 15 progress note about the project overview.
