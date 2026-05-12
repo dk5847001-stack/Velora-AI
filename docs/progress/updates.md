@@ -1433,3 +1433,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1429: Recorded pass 15 progress note about the README setup steps.
 - Update 1430: Recorded pass 15 progress note about the environment examples.
 - Update 1431: Recorded pass 15 progress note about the build outputs.
+- Update 1432: Recorded pass 15 progress note about the development scripts.
