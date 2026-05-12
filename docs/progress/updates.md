@@ -1478,3 +1478,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1474: Recorded pass 15 progress note about the runbook details.
 - Update 1475: Recorded pass 15 progress note about the debug logs hygiene.
 - Update 1476: Recorded pass 15 progress note about the production build notes.
+- Update 1477: Recorded pass 15 progress note about the package scripts.
