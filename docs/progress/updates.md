@@ -1534,3 +1534,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1530: Recorded pass 16 progress note about the environment examples.
 - Update 1531: Recorded pass 16 progress note about the build outputs.
 - Update 1532: Recorded pass 16 progress note about the development scripts.
+- Update 1533: Recorded pass 16 progress note about the Vite proxy behavior.
