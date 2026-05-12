@@ -1494,3 +1494,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1490: Recorded pass 15 progress note about the feature list.
 - Update 1491: Recorded pass 15 progress note about the testing gaps.
 - Update 1492: Recorded pass 15 progress note about the maintenance checklist.
+- Update 1493: Recorded pass 15 progress note about the future backlog.
