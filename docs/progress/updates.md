@@ -1438,3 +1438,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1434: Recorded pass 15 progress note about the JWT token lifecycle.
 - Update 1435: Recorded pass 15 progress note about the Mongo persistence.
 - Update 1436: Recorded pass 15 progress note about the Markdown rendering.
+- Update 1437: Recorded pass 15 progress note about the syntax highlighting.
