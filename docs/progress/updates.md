@@ -1512,3 +1512,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1508: Recorded pass 16 progress note about the auth context.
 - Update 1509: Recorded pass 16 progress note about the API client setup.
 - Update 1510: Recorded pass 16 progress note about the format helpers.
+- Update 1511: Recorded pass 16 progress note about the server bootstrap.
