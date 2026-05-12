@@ -1460,3 +1460,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1456: Recorded pass 15 progress note about the API route surface.
 - Update 1457: Recorded pass 15 progress note about the deployment assumptions.
 - Update 1458: Recorded pass 15 progress note about the local demo mode.
+- Update 1459: Recorded pass 15 progress note about the history sidebar.
