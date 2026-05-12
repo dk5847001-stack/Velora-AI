@@ -1506,3 +1506,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1502: Recorded pass 16 progress note about the client auth flow.
 - Update 1503: Recorded pass 16 progress note about the chat composer.
 - Update 1504: Recorded pass 16 progress note about the chat header.
+- Update 1505: Recorded pass 16 progress note about the chat message renderer.
