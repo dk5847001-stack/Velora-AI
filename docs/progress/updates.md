@@ -1511,3 +1511,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1507: Recorded pass 16 progress note about the sidebar interactions.
 - Update 1508: Recorded pass 16 progress note about the auth context.
 - Update 1509: Recorded pass 16 progress note about the API client setup.
+- Update 1510: Recorded pass 16 progress note about the format helpers.
