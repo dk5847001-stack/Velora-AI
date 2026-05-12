@@ -1537,3 +1537,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1533: Recorded pass 16 progress note about the Vite proxy behavior.
 - Update 1534: Recorded pass 16 progress note about the JWT token lifecycle.
 - Update 1535: Recorded pass 16 progress note about the Mongo persistence.
+- Update 1536: Recorded pass 16 progress note about the Markdown rendering.
