@@ -1587,3 +1587,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1583: Recorded pass 16 progress note about the response timing notes.
 - Update 1584: Recorded pass 16 progress note about the prompt handling.
 - Update 1585: Recorded pass 16 progress note about the request auth headers.
+- Update 1586: Recorded pass 16 progress note about the client routing.
