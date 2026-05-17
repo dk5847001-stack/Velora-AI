@@ -1595,3 +1595,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1591: Recorded pass 16 progress note about the testing gaps.
 - Update 1592: Recorded pass 16 progress note about the maintenance checklist.
 - Update 1593: Recorded pass 16 progress note about the future backlog.
+- Update 1594: Recorded pass 16 progress note about the troubleshooting notes.
