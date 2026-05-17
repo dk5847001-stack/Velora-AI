@@ -1569,3 +1569,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1565: Recorded pass 16 progress note about the environment variable usage.
 - Update 1566: Recorded pass 16 progress note about the port configuration.
 - Update 1567: Recorded pass 16 progress note about the client entry point.
+- Update 1568: Recorded pass 16 progress note about the server entry point.
