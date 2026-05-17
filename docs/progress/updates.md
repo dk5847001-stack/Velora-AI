@@ -1611,3 +1611,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1607: Recorded pass 17 progress note about the sidebar interactions.
 - Update 1608: Recorded pass 17 progress note about the auth context.
 - Update 1609: Recorded pass 17 progress note about the API client setup.
+- Update 1610: Recorded pass 17 progress note about the format helpers.
