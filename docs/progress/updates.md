@@ -1575,3 +1575,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1571: Recorded pass 16 progress note about the shared utilities.
 - Update 1572: Recorded pass 16 progress note about the documentation tone.
 - Update 1573: Recorded pass 16 progress note about the setup clarity.
+- Update 1574: Recorded pass 16 progress note about the runbook details.
