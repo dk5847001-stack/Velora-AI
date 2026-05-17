@@ -1561,3 +1561,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1557: Recorded pass 16 progress note about the deployment assumptions.
 - Update 1558: Recorded pass 16 progress note about the local demo mode.
 - Update 1559: Recorded pass 16 progress note about the history sidebar.
+- Update 1560: Recorded pass 16 progress note about the chat deletion flow.
