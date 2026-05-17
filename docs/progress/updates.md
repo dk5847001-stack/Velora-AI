@@ -1632,3 +1632,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1628: Recorded pass 17 progress note about the token generation.
 - Update 1629: Recorded pass 17 progress note about the README setup steps.
 - Update 1630: Recorded pass 17 progress note about the environment examples.
+- Update 1631: Recorded pass 17 progress note about the build outputs.
