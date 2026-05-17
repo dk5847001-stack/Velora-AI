@@ -1586,3 +1586,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1582: Recorded pass 16 progress note about the API fallback paths.
 - Update 1583: Recorded pass 16 progress note about the response timing notes.
 - Update 1584: Recorded pass 16 progress note about the prompt handling.
+- Update 1585: Recorded pass 16 progress note about the request auth headers.
