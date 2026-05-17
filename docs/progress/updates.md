@@ -1583,3 +1583,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1579: Recorded pass 16 progress note about the frontend state flow.
 - Update 1580: Recorded pass 16 progress note about the backend service boundaries.
 - Update 1581: Recorded pass 16 progress note about the error messages.
+- Update 1582: Recorded pass 16 progress note about the API fallback paths.
