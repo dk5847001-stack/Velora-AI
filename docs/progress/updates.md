@@ -1639,3 +1639,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1635: Recorded pass 17 progress note about the Mongo persistence.
 - Update 1636: Recorded pass 17 progress note about the Markdown rendering.
 - Update 1637: Recorded pass 17 progress note about the syntax highlighting.
+- Update 1638: Recorded pass 17 progress note about the mobile layout.
