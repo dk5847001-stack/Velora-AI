@@ -1564,3 +1564,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1560: Recorded pass 16 progress note about the chat deletion flow.
 - Update 1561: Recorded pass 16 progress note about the new chat creation.
 - Update 1562: Recorded pass 16 progress note about the message submit path.
+- Update 1563: Recorded pass 16 progress note about the copy button behavior.
