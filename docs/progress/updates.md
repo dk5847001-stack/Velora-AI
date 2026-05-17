@@ -1647,3 +1647,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1643: Recorded pass 17 progress note about the response formatting.
 - Update 1644: Recorded pass 17 progress note about the session recovery.
 - Update 1645: Recorded pass 17 progress note about the route protection.
+- Update 1646: Recorded pass 17 progress note about the chat history loading.
