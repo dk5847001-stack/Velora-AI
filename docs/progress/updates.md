@@ -1605,3 +1605,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1601: Recorded pass 17 progress note about the client app shell.
 - Update 1602: Recorded pass 17 progress note about the client auth flow.
 - Update 1603: Recorded pass 17 progress note about the chat composer.
+- Update 1604: Recorded pass 17 progress note about the chat header.
