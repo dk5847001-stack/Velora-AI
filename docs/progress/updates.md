@@ -1589,3 +1589,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1585: Recorded pass 16 progress note about the request auth headers.
 - Update 1586: Recorded pass 16 progress note about the client routing.
 - Update 1587: Recorded pass 16 progress note about the server routing.
+- Update 1588: Recorded pass 16 progress note about the modular file layout.
