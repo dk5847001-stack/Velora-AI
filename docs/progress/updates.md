@@ -1623,3 +1623,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1619: Recorded pass 17 progress note about the user model.
 - Update 1620: Recorded pass 17 progress note about the auth routes.
 - Update 1621: Recorded pass 17 progress note about the chat routes.
+- Update 1622: Recorded pass 17 progress note about the assistant service.
