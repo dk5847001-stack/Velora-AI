@@ -1613,3 +1613,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1609: Recorded pass 17 progress note about the API client setup.
 - Update 1610: Recorded pass 17 progress note about the format helpers.
 - Update 1611: Recorded pass 17 progress note about the server bootstrap.
+- Update 1612: Recorded pass 17 progress note about the Express app wiring.
