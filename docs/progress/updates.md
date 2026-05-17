@@ -1592,3 +1592,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1588: Recorded pass 16 progress note about the modular file layout.
 - Update 1589: Recorded pass 16 progress note about the project overview.
 - Update 1590: Recorded pass 16 progress note about the feature list.
+- Update 1591: Recorded pass 16 progress note about the testing gaps.
