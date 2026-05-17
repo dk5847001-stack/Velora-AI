@@ -1572,3 +1572,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1568: Recorded pass 16 progress note about the server entry point.
 - Update 1569: Recorded pass 16 progress note about the Mongoose models.
 - Update 1570: Recorded pass 16 progress note about the React pages.
+- Update 1571: Recorded pass 16 progress note about the shared utilities.
