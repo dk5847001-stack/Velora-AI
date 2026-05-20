@@ -1704,3 +1704,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1700: Recorded pass 17 progress note about the documentation coverage.
 - Update 1701: Recorded pass 18 progress note about the client app shell.
 - Update 1702: Recorded pass 18 progress note about the client auth flow.
+- Update 1703: Recorded pass 18 progress note about the chat composer.
