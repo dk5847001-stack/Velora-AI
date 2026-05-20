@@ -1681,3 +1681,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1677: Recorded pass 17 progress note about the package scripts.
 - Update 1678: Recorded pass 17 progress note about the dependency boundaries.
 - Update 1679: Recorded pass 17 progress note about the frontend state flow.
+- Update 1680: Recorded pass 17 progress note about the backend service boundaries.
