@@ -1731,3 +1731,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1727: Recorded pass 18 progress note about the async utilities.
 - Update 1728: Recorded pass 18 progress note about the token generation.
 - Update 1729: Recorded pass 18 progress note about the README setup steps.
+- Update 1730: Recorded pass 18 progress note about the environment examples.
