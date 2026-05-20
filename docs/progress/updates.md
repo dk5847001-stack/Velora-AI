@@ -1659,3 +1659,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1655: Recorded pass 17 progress note about the folder structure.
 - Update 1656: Recorded pass 17 progress note about the API route surface.
 - Update 1657: Recorded pass 17 progress note about the deployment assumptions.
+- Update 1658: Recorded pass 17 progress note about the local demo mode.
