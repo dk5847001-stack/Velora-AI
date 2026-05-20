@@ -1723,3 +1723,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1719: Recorded pass 18 progress note about the user model.
 - Update 1720: Recorded pass 18 progress note about the auth routes.
 - Update 1721: Recorded pass 18 progress note about the chat routes.
+- Update 1722: Recorded pass 18 progress note about the assistant service.
