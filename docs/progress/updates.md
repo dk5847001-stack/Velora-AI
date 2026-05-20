@@ -1657,3 +1657,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1653: Recorded pass 17 progress note about the placeholder copy.
 - Update 1654: Recorded pass 17 progress note about the component naming.
 - Update 1655: Recorded pass 17 progress note about the folder structure.
+- Update 1656: Recorded pass 17 progress note about the API route surface.
