@@ -1734,3 +1734,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1730: Recorded pass 18 progress note about the environment examples.
 - Update 1731: Recorded pass 18 progress note about the build outputs.
 - Update 1732: Recorded pass 18 progress note about the development scripts.
+- Update 1733: Recorded pass 18 progress note about the Vite proxy behavior.
