@@ -1670,3 +1670,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1666: Recorded pass 17 progress note about the port configuration.
 - Update 1667: Recorded pass 17 progress note about the client entry point.
 - Update 1668: Recorded pass 17 progress note about the server entry point.
+- Update 1669: Recorded pass 17 progress note about the Mongoose models.
