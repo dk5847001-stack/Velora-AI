@@ -1691,3 +1691,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1687: Recorded pass 17 progress note about the server routing.
 - Update 1688: Recorded pass 17 progress note about the modular file layout.
 - Update 1689: Recorded pass 17 progress note about the project overview.
+- Update 1690: Recorded pass 17 progress note about the feature list.
