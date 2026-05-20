@@ -1718,3 +1718,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1714: Recorded pass 18 progress note about the auth controller.
 - Update 1715: Recorded pass 18 progress note about the chat controller.
 - Update 1716: Recorded pass 18 progress note about the auth middleware.
+- Update 1717: Recorded pass 18 progress note about the error middleware.
