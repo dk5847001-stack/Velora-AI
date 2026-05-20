@@ -1677,3 +1677,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1673: Recorded pass 17 progress note about the setup clarity.
 - Update 1674: Recorded pass 17 progress note about the runbook details.
 - Update 1675: Recorded pass 17 progress note about the debug logs hygiene.
+- Update 1676: Recorded pass 17 progress note about the production build notes.
