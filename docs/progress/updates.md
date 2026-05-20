@@ -1652,3 +1652,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1648: Recorded pass 17 progress note about the AI fallback handling.
 - Update 1649: Recorded pass 17 progress note about the logout behavior.
 - Update 1650: Recorded pass 17 progress note about the signup flow.
+- Update 1651: Recorded pass 17 progress note about the login flow.
