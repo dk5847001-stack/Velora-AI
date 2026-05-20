@@ -1710,3 +1710,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1706: Recorded pass 18 progress note about the empty state.
 - Update 1707: Recorded pass 18 progress note about the sidebar interactions.
 - Update 1708: Recorded pass 18 progress note about the auth context.
+- Update 1709: Recorded pass 18 progress note about the API client setup.
