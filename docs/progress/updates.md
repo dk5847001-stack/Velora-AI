@@ -1702,3 +1702,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1698: Recorded pass 17 progress note about the safe commit cadence.
 - Update 1699: Recorded pass 17 progress note about the change log structure.
 - Update 1700: Recorded pass 17 progress note about the documentation coverage.
+- Update 1701: Recorded pass 18 progress note about the client app shell.
