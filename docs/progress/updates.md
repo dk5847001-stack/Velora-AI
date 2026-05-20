@@ -1746,3 +1746,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1742: Recorded pass 18 progress note about the request validation.
 - Update 1743: Recorded pass 18 progress note about the response formatting.
 - Update 1744: Recorded pass 18 progress note about the session recovery.
+- Update 1745: Recorded pass 18 progress note about the route protection.
