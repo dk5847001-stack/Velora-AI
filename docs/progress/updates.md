@@ -1725,3 +1725,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1721: Recorded pass 18 progress note about the chat routes.
 - Update 1722: Recorded pass 18 progress note about the assistant service.
 - Update 1723: Recorded pass 18 progress note about the demo assistant.
+- Update 1724: Recorded pass 18 progress note about the local knowledge service.
