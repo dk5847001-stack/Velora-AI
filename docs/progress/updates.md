@@ -1728,3 +1728,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1724: Recorded pass 18 progress note about the local knowledge service.
 - Update 1725: Recorded pass 18 progress note about the math assistant.
 - Update 1726: Recorded pass 18 progress note about the OpenAI service.
+- Update 1727: Recorded pass 18 progress note about the async utilities.
