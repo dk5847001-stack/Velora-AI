@@ -1712,3 +1712,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1708: Recorded pass 18 progress note about the auth context.
 - Update 1709: Recorded pass 18 progress note about the API client setup.
 - Update 1710: Recorded pass 18 progress note about the format helpers.
+- Update 1711: Recorded pass 18 progress note about the server bootstrap.
