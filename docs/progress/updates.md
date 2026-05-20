@@ -1698,3 +1698,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1694: Recorded pass 17 progress note about the troubleshooting notes.
 - Update 1695: Recorded pass 17 progress note about the developer onboarding.
 - Update 1696: Recorded pass 17 progress note about the release notes.
+- Update 1697: Recorded pass 17 progress note about the repo hygiene.
