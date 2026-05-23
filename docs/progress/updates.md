@@ -1775,3 +1775,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1771: Recorded pass 18 progress note about the shared utilities.
 - Update 1772: Recorded pass 18 progress note about the documentation tone.
 - Update 1773: Recorded pass 18 progress note about the setup clarity.
+- Update 1774: Recorded pass 18 progress note about the runbook details.
