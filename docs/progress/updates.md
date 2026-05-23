@@ -1812,3 +1812,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1808: Recorded pass 19 progress note about the auth context.
 - Update 1809: Recorded pass 19 progress note about the API client setup.
 - Update 1810: Recorded pass 19 progress note about the format helpers.
+- Update 1811: Recorded pass 19 progress note about the server bootstrap.
