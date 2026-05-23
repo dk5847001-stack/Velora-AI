@@ -1765,3 +1765,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1761: Recorded pass 18 progress note about the new chat creation.
 - Update 1762: Recorded pass 18 progress note about the message submit path.
 - Update 1763: Recorded pass 18 progress note about the copy button behavior.
+- Update 1764: Recorded pass 18 progress note about the scroll behavior.
