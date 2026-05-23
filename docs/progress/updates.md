@@ -1789,3 +1789,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1785: Recorded pass 18 progress note about the request auth headers.
 - Update 1786: Recorded pass 18 progress note about the client routing.
 - Update 1787: Recorded pass 18 progress note about the server routing.
+- Update 1788: Recorded pass 18 progress note about the modular file layout.
