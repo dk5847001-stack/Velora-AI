@@ -1796,3 +1796,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1792: Recorded pass 18 progress note about the maintenance checklist.
 - Update 1793: Recorded pass 18 progress note about the future backlog.
 - Update 1794: Recorded pass 18 progress note about the troubleshooting notes.
+- Update 1795: Recorded pass 18 progress note about the developer onboarding.
