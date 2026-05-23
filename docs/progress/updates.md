@@ -1828,3 +1828,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1824: Recorded pass 19 progress note about the local knowledge service.
 - Update 1825: Recorded pass 19 progress note about the math assistant.
 - Update 1826: Recorded pass 19 progress note about the OpenAI service.
+- Update 1827: Recorded pass 19 progress note about the async utilities.
