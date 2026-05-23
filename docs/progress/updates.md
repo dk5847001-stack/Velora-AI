@@ -1768,3 +1768,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1764: Recorded pass 18 progress note about the scroll behavior.
 - Update 1765: Recorded pass 18 progress note about the environment variable usage.
 - Update 1766: Recorded pass 18 progress note about the port configuration.
+- Update 1767: Recorded pass 18 progress note about the client entry point.
