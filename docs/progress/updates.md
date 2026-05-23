@@ -1830,3 +1830,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1826: Recorded pass 19 progress note about the OpenAI service.
 - Update 1827: Recorded pass 19 progress note about the async utilities.
 - Update 1828: Recorded pass 19 progress note about the token generation.
+- Update 1829: Recorded pass 19 progress note about the README setup steps.
