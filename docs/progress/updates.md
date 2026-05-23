@@ -1815,3 +1815,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1811: Recorded pass 19 progress note about the server bootstrap.
 - Update 1812: Recorded pass 19 progress note about the Express app wiring.
 - Update 1813: Recorded pass 19 progress note about the database connection.
+- Update 1814: Recorded pass 19 progress note about the auth controller.
