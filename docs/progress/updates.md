@@ -1779,3 +1779,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1775: Recorded pass 18 progress note about the debug logs hygiene.
 - Update 1776: Recorded pass 18 progress note about the production build notes.
 - Update 1777: Recorded pass 18 progress note about the package scripts.
+- Update 1778: Recorded pass 18 progress note about the dependency boundaries.
