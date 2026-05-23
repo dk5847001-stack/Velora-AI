@@ -1802,3 +1802,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1798: Recorded pass 18 progress note about the safe commit cadence.
 - Update 1799: Recorded pass 18 progress note about the change log structure.
 - Update 1800: Recorded pass 18 progress note about the documentation coverage.
+- Update 1801: Recorded pass 19 progress note about the client app shell.
