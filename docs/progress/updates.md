@@ -1783,3 +1783,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1779: Recorded pass 18 progress note about the frontend state flow.
 - Update 1780: Recorded pass 18 progress note about the backend service boundaries.
 - Update 1781: Recorded pass 18 progress note about the error messages.
+- Update 1782: Recorded pass 18 progress note about the API fallback paths.
