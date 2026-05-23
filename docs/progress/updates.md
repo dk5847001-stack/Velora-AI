@@ -1806,3 +1806,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1802: Recorded pass 19 progress note about the client auth flow.
 - Update 1803: Recorded pass 19 progress note about the chat composer.
 - Update 1804: Recorded pass 19 progress note about the chat header.
+- Update 1805: Recorded pass 19 progress note about the chat message renderer.
