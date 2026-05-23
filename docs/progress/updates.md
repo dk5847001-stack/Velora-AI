@@ -1771,3 +1771,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1767: Recorded pass 18 progress note about the client entry point.
 - Update 1768: Recorded pass 18 progress note about the server entry point.
 - Update 1769: Recorded pass 18 progress note about the Mongoose models.
+- Update 1770: Recorded pass 18 progress note about the React pages.
