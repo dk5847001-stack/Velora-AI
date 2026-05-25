@@ -1833,3 +1833,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1829: Recorded pass 19 progress note about the README setup steps.
 - Update 1830: Recorded pass 19 progress note about the environment examples.
 - Update 1831: Recorded pass 19 progress note about the build outputs.
+- Update 1832: Recorded pass 19 progress note about the development scripts.
