@@ -1887,3 +1887,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1883: Recorded pass 19 progress note about the response timing notes.
 - Update 1884: Recorded pass 19 progress note about the prompt handling.
 - Update 1885: Recorded pass 19 progress note about the request auth headers.
+- Update 1886: Recorded pass 19 progress note about the client routing.
