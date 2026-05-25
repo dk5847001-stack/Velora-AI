@@ -1863,3 +1863,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1859: Recorded pass 19 progress note about the history sidebar.
 - Update 1860: Recorded pass 19 progress note about the chat deletion flow.
 - Update 1861: Recorded pass 19 progress note about the new chat creation.
+- Update 1862: Recorded pass 19 progress note about the message submit path.
