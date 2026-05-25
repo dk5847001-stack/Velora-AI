@@ -1911,3 +1911,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1907: Recorded pass 20 progress note about the sidebar interactions.
 - Update 1908: Recorded pass 20 progress note about the auth context.
 - Update 1909: Recorded pass 20 progress note about the API client setup.
+- Update 1910: Recorded pass 20 progress note about the format helpers.
