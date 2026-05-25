@@ -1904,3 +1904,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1900: Recorded pass 19 progress note about the documentation coverage.
 - Update 1901: Recorded pass 20 progress note about the client app shell.
 - Update 1902: Recorded pass 20 progress note about the client auth flow.
+- Update 1903: Recorded pass 20 progress note about the chat composer.
