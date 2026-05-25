@@ -1873,3 +1873,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1869: Recorded pass 19 progress note about the Mongoose models.
 - Update 1870: Recorded pass 19 progress note about the React pages.
 - Update 1871: Recorded pass 19 progress note about the shared utilities.
+- Update 1872: Recorded pass 19 progress note about the documentation tone.
