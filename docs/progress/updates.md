@@ -1876,3 +1876,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1872: Recorded pass 19 progress note about the documentation tone.
 - Update 1873: Recorded pass 19 progress note about the setup clarity.
 - Update 1874: Recorded pass 19 progress note about the runbook details.
+- Update 1875: Recorded pass 19 progress note about the debug logs hygiene.
