@@ -1836,3 +1836,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1832: Recorded pass 19 progress note about the development scripts.
 - Update 1833: Recorded pass 19 progress note about the Vite proxy behavior.
 - Update 1834: Recorded pass 19 progress note about the JWT token lifecycle.
+- Update 1835: Recorded pass 19 progress note about the Mongo persistence.
