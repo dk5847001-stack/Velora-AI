@@ -1861,3 +1861,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1857: Recorded pass 19 progress note about the deployment assumptions.
 - Update 1858: Recorded pass 19 progress note about the local demo mode.
 - Update 1859: Recorded pass 19 progress note about the history sidebar.
+- Update 1860: Recorded pass 19 progress note about the chat deletion flow.
