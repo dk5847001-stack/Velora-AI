@@ -1847,3 +1847,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1843: Recorded pass 19 progress note about the response formatting.
 - Update 1844: Recorded pass 19 progress note about the session recovery.
 - Update 1845: Recorded pass 19 progress note about the route protection.
+- Update 1846: Recorded pass 19 progress note about the chat history loading.
