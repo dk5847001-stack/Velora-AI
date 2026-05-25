@@ -1851,3 +1851,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1847: Recorded pass 19 progress note about the message persistence.
 - Update 1848: Recorded pass 19 progress note about the AI fallback handling.
 - Update 1849: Recorded pass 19 progress note about the logout behavior.
+- Update 1850: Recorded pass 19 progress note about the signup flow.
