@@ -1891,3 +1891,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1887: Recorded pass 19 progress note about the server routing.
 - Update 1888: Recorded pass 19 progress note about the modular file layout.
 - Update 1889: Recorded pass 19 progress note about the project overview.
+- Update 1890: Recorded pass 19 progress note about the feature list.
