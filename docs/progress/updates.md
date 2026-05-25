@@ -1841,3 +1841,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1837: Recorded pass 19 progress note about the syntax highlighting.
 - Update 1838: Recorded pass 19 progress note about the mobile layout.
 - Update 1839: Recorded pass 19 progress note about the desktop layout.
+- Update 1840: Recorded pass 19 progress note about the loading states.
