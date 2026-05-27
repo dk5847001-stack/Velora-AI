@@ -1930,3 +1930,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1926: Recorded pass 20 progress note about the OpenAI service.
 - Update 1927: Recorded pass 20 progress note about the async utilities.
 - Update 1928: Recorded pass 20 progress note about the token generation.
+- Update 1929: Recorded pass 20 progress note about the README setup steps.
