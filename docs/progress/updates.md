@@ -1949,3 +1949,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1945: Recorded pass 20 progress note about the route protection.
 - Update 1946: Recorded pass 20 progress note about the chat history loading.
 - Update 1947: Recorded pass 20 progress note about the message persistence.
+- Update 1948: Recorded pass 20 progress note about the AI fallback handling.
