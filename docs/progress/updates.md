@@ -1975,3 +1975,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1971: Recorded pass 20 progress note about the shared utilities.
 - Update 1972: Recorded pass 20 progress note about the documentation tone.
 - Update 1973: Recorded pass 20 progress note about the setup clarity.
+- Update 1974: Recorded pass 20 progress note about the runbook details.
