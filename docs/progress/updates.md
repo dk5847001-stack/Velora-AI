@@ -1981,3 +1981,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1977: Recorded pass 20 progress note about the package scripts.
 - Update 1978: Recorded pass 20 progress note about the dependency boundaries.
 - Update 1979: Recorded pass 20 progress note about the frontend state flow.
+- Update 1980: Recorded pass 20 progress note about the backend service boundaries.
