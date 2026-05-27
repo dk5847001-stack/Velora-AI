@@ -1948,3 +1948,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1944: Recorded pass 20 progress note about the session recovery.
 - Update 1945: Recorded pass 20 progress note about the route protection.
 - Update 1946: Recorded pass 20 progress note about the chat history loading.
+- Update 1947: Recorded pass 20 progress note about the message persistence.
