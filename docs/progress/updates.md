@@ -1961,3 +1961,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1957: Recorded pass 20 progress note about the deployment assumptions.
 - Update 1958: Recorded pass 20 progress note about the local demo mode.
 - Update 1959: Recorded pass 20 progress note about the history sidebar.
+- Update 1960: Recorded pass 20 progress note about the chat deletion flow.
