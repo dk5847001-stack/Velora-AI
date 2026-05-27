@@ -1987,3 +1987,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1983: Recorded pass 20 progress note about the response timing notes.
 - Update 1984: Recorded pass 20 progress note about the prompt handling.
 - Update 1985: Recorded pass 20 progress note about the request auth headers.
+- Update 1986: Recorded pass 20 progress note about the client routing.
