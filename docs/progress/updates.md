@@ -1990,3 +1990,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1986: Recorded pass 20 progress note about the client routing.
 - Update 1987: Recorded pass 20 progress note about the server routing.
 - Update 1988: Recorded pass 20 progress note about the modular file layout.
+- Update 1989: Recorded pass 20 progress note about the project overview.
