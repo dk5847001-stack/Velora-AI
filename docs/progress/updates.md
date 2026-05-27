@@ -2022,3 +2022,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2018: Recorded pass 21 progress note about the chat model.
 - Update 2019: Recorded pass 21 progress note about the user model.
 - Update 2020: Recorded pass 21 progress note about the auth routes.
+- Update 2021: Recorded pass 21 progress note about the chat routes.
