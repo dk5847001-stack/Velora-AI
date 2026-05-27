@@ -1978,3 +1978,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1974: Recorded pass 20 progress note about the runbook details.
 - Update 1975: Recorded pass 20 progress note about the debug logs hygiene.
 - Update 1976: Recorded pass 20 progress note about the production build notes.
+- Update 1977: Recorded pass 20 progress note about the package scripts.
