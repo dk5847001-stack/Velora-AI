@@ -2002,3 +2002,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1998: Recorded pass 20 progress note about the safe commit cadence.
 - Update 1999: Recorded pass 20 progress note about the change log structure.
 - Update 2000: Recorded pass 20 progress note about the documentation coverage.
+- Update 2001: Recorded pass 21 progress note about the client app shell.
