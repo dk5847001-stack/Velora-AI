@@ -1966,3 +1966,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1962: Recorded pass 20 progress note about the message submit path.
 - Update 1963: Recorded pass 20 progress note about the copy button behavior.
 - Update 1964: Recorded pass 20 progress note about the scroll behavior.
+- Update 1965: Recorded pass 20 progress note about the environment variable usage.
