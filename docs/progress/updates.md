@@ -2015,3 +2015,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2011: Recorded pass 21 progress note about the server bootstrap.
 - Update 2012: Recorded pass 21 progress note about the Express app wiring.
 - Update 2013: Recorded pass 21 progress note about the database connection.
+- Update 2014: Recorded pass 21 progress note about the auth controller.
