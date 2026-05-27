@@ -1958,3 +1958,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1954: Recorded pass 20 progress note about the component naming.
 - Update 1955: Recorded pass 20 progress note about the folder structure.
 - Update 1956: Recorded pass 20 progress note about the API route surface.
+- Update 1957: Recorded pass 20 progress note about the deployment assumptions.
