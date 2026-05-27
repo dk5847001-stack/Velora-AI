@@ -2027,3 +2027,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2023: Recorded pass 21 progress note about the demo assistant.
 - Update 2024: Recorded pass 21 progress note about the local knowledge service.
 - Update 2025: Recorded pass 21 progress note about the math assistant.
+- Update 2026: Recorded pass 21 progress note about the OpenAI service.
