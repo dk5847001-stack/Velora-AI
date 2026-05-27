@@ -2011,3 +2011,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2007: Recorded pass 21 progress note about the sidebar interactions.
 - Update 2008: Recorded pass 21 progress note about the auth context.
 - Update 2009: Recorded pass 21 progress note about the API client setup.
+- Update 2010: Recorded pass 21 progress note about the format helpers.
