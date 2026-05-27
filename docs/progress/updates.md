@@ -1972,3 +1972,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1968: Recorded pass 20 progress note about the server entry point.
 - Update 1969: Recorded pass 20 progress note about the Mongoose models.
 - Update 1970: Recorded pass 20 progress note about the React pages.
+- Update 1971: Recorded pass 20 progress note about the shared utilities.
