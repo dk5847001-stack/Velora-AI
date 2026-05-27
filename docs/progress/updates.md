@@ -1969,3 +1969,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1965: Recorded pass 20 progress note about the environment variable usage.
 - Update 1966: Recorded pass 20 progress note about the port configuration.
 - Update 1967: Recorded pass 20 progress note about the client entry point.
+- Update 1968: Recorded pass 20 progress note about the server entry point.
