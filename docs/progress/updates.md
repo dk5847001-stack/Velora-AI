@@ -1939,3 +1939,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1935: Recorded pass 20 progress note about the Mongo persistence.
 - Update 1936: Recorded pass 20 progress note about the Markdown rendering.
 - Update 1937: Recorded pass 20 progress note about the syntax highlighting.
+- Update 1938: Recorded pass 20 progress note about the mobile layout.
