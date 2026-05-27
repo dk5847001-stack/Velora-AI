@@ -1941,3 +1941,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1937: Recorded pass 20 progress note about the syntax highlighting.
 - Update 1938: Recorded pass 20 progress note about the mobile layout.
 - Update 1939: Recorded pass 20 progress note about the desktop layout.
+- Update 1940: Recorded pass 20 progress note about the loading states.
