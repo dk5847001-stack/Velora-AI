@@ -2004,3 +2004,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2000: Recorded pass 20 progress note about the documentation coverage.
 - Update 2001: Recorded pass 21 progress note about the client app shell.
 - Update 2002: Recorded pass 21 progress note about the client auth flow.
+- Update 2003: Recorded pass 21 progress note about the chat composer.
