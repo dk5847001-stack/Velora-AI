@@ -2006,3 +2006,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2002: Recorded pass 21 progress note about the client auth flow.
 - Update 2003: Recorded pass 21 progress note about the chat composer.
 - Update 2004: Recorded pass 21 progress note about the chat header.
+- Update 2005: Recorded pass 21 progress note about the chat message renderer.
