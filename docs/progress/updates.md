@@ -2039,3 +2039,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2035: Recorded pass 21 progress note about the Mongo persistence.
 - Update 2036: Recorded pass 21 progress note about the Markdown rendering.
 - Update 2037: Recorded pass 21 progress note about the syntax highlighting.
+- Update 2038: Recorded pass 21 progress note about the mobile layout.
