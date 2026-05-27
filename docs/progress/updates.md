@@ -1937,3 +1937,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1933: Recorded pass 20 progress note about the Vite proxy behavior.
 - Update 1934: Recorded pass 20 progress note about the JWT token lifecycle.
 - Update 1935: Recorded pass 20 progress note about the Mongo persistence.
+- Update 1936: Recorded pass 20 progress note about the Markdown rendering.
