@@ -1922,3 +1922,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1918: Recorded pass 20 progress note about the chat model.
 - Update 1919: Recorded pass 20 progress note about the user model.
 - Update 1920: Recorded pass 20 progress note about the auth routes.
+- Update 1921: Recorded pass 20 progress note about the chat routes.
