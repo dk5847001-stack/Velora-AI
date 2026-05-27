@@ -1950,3 +1950,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1946: Recorded pass 20 progress note about the chat history loading.
 - Update 1947: Recorded pass 20 progress note about the message persistence.
 - Update 1948: Recorded pass 20 progress note about the AI fallback handling.
+- Update 1949: Recorded pass 20 progress note about the logout behavior.
