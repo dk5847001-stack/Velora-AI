@@ -2009,3 +2009,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2005: Recorded pass 21 progress note about the chat message renderer.
 - Update 2006: Recorded pass 21 progress note about the empty state.
 - Update 2007: Recorded pass 21 progress note about the sidebar interactions.
+- Update 2008: Recorded pass 21 progress note about the auth context.
