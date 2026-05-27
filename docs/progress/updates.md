@@ -1935,3 +1935,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 1931: Recorded pass 20 progress note about the build outputs.
 - Update 1932: Recorded pass 20 progress note about the development scripts.
 - Update 1933: Recorded pass 20 progress note about the Vite proxy behavior.
+- Update 1934: Recorded pass 20 progress note about the JWT token lifecycle.
