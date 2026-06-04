@@ -2059,3 +2059,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2055: Recorded pass 21 progress note about the folder structure.
 - Update 2056: Recorded pass 21 progress note about the API route surface.
 - Update 2057: Recorded pass 21 progress note about the deployment assumptions.
+- Update 2058: Recorded pass 21 progress note about the local demo mode.
