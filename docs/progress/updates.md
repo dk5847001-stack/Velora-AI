@@ -2085,3 +2085,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2081: Recorded pass 21 progress note about the error messages.
 - Update 2082: Recorded pass 21 progress note about the API fallback paths.
 - Update 2083: Recorded pass 21 progress note about the response timing notes.
+- Update 2084: Recorded pass 21 progress note about the prompt handling.
