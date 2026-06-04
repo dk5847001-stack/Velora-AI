@@ -2110,3 +2110,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2106: Recorded pass 22 progress note about the empty state.
 - Update 2107: Recorded pass 22 progress note about the sidebar interactions.
 - Update 2108: Recorded pass 22 progress note about the auth context.
+- Update 2109: Recorded pass 22 progress note about the API client setup.
