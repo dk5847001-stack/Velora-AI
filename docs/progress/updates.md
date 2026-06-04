@@ -2112,3 +2112,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2108: Recorded pass 22 progress note about the auth context.
 - Update 2109: Recorded pass 22 progress note about the API client setup.
 - Update 2110: Recorded pass 22 progress note about the format helpers.
+- Update 2111: Recorded pass 22 progress note about the server bootstrap.
