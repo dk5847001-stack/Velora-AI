@@ -2091,3 +2091,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2087: Recorded pass 21 progress note about the server routing.
 - Update 2088: Recorded pass 21 progress note about the modular file layout.
 - Update 2089: Recorded pass 21 progress note about the project overview.
+- Update 2090: Recorded pass 21 progress note about the feature list.
