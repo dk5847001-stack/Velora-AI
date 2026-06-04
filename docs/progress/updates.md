@@ -2062,3 +2062,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2058: Recorded pass 21 progress note about the local demo mode.
 - Update 2059: Recorded pass 21 progress note about the history sidebar.
 - Update 2060: Recorded pass 21 progress note about the chat deletion flow.
+- Update 2061: Recorded pass 21 progress note about the new chat creation.
