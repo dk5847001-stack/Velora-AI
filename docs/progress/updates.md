@@ -2067,3 +2067,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2063: Recorded pass 21 progress note about the copy button behavior.
 - Update 2064: Recorded pass 21 progress note about the scroll behavior.
 - Update 2065: Recorded pass 21 progress note about the environment variable usage.
+- Update 2066: Recorded pass 21 progress note about the port configuration.
