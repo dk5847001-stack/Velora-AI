@@ -2152,3 +2152,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2148: Recorded pass 22 progress note about the AI fallback handling.
 - Update 2149: Recorded pass 22 progress note about the logout behavior.
 - Update 2150: Recorded pass 22 progress note about the signup flow.
+- Update 2151: Recorded pass 22 progress note about the login flow.
