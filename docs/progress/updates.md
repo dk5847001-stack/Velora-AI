@@ -2131,3 +2131,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2127: Recorded pass 22 progress note about the async utilities.
 - Update 2128: Recorded pass 22 progress note about the token generation.
 - Update 2129: Recorded pass 22 progress note about the README setup steps.
+- Update 2130: Recorded pass 22 progress note about the environment examples.
