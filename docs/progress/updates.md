@@ -2192,3 +2192,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2188: Recorded pass 22 progress note about the modular file layout.
 - Update 2189: Recorded pass 22 progress note about the project overview.
 - Update 2190: Recorded pass 22 progress note about the feature list.
+- Update 2191: Recorded pass 22 progress note about the testing gaps.
