@@ -2189,3 +2189,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2185: Recorded pass 22 progress note about the request auth headers.
 - Update 2186: Recorded pass 22 progress note about the client routing.
 - Update 2187: Recorded pass 22 progress note about the server routing.
+- Update 2188: Recorded pass 22 progress note about the modular file layout.
