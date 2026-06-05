@@ -2205,3 +2205,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2201: Recorded pass 23 progress note about the client app shell.
 - Update 2202: Recorded pass 23 progress note about the client auth flow.
 - Update 2203: Recorded pass 23 progress note about the chat composer.
+- Update 2204: Recorded pass 23 progress note about the chat header.
