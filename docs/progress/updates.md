@@ -2172,3 +2172,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2168: Recorded pass 22 progress note about the server entry point.
 - Update 2169: Recorded pass 22 progress note about the Mongoose models.
 - Update 2170: Recorded pass 22 progress note about the React pages.
+- Update 2171: Recorded pass 22 progress note about the shared utilities.
