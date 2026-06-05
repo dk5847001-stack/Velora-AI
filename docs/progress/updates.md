@@ -2202,3 +2202,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2198: Recorded pass 22 progress note about the safe commit cadence.
 - Update 2199: Recorded pass 22 progress note about the change log structure.
 - Update 2200: Recorded pass 22 progress note about the documentation coverage.
+- Update 2201: Recorded pass 23 progress note about the client app shell.
