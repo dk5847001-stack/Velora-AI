@@ -2144,3 +2144,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2140: Recorded pass 22 progress note about the loading states.
 - Update 2141: Recorded pass 22 progress note about the error handling.
 - Update 2142: Recorded pass 22 progress note about the request validation.
+- Update 2143: Recorded pass 22 progress note about the response formatting.
