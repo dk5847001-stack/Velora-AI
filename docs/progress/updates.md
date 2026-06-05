@@ -2168,3 +2168,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2164: Recorded pass 22 progress note about the scroll behavior.
 - Update 2165: Recorded pass 22 progress note about the environment variable usage.
 - Update 2166: Recorded pass 22 progress note about the port configuration.
+- Update 2167: Recorded pass 22 progress note about the client entry point.
