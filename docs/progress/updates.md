@@ -2215,3 +2215,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2211: Recorded pass 23 progress note about the server bootstrap.
 - Update 2212: Recorded pass 23 progress note about the Express app wiring.
 - Update 2213: Recorded pass 23 progress note about the database connection.
+- Update 2214: Recorded pass 23 progress note about the auth controller.
