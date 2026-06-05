@@ -2133,3 +2133,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2129: Recorded pass 22 progress note about the README setup steps.
 - Update 2130: Recorded pass 22 progress note about the environment examples.
 - Update 2131: Recorded pass 22 progress note about the build outputs.
+- Update 2132: Recorded pass 22 progress note about the development scripts.
