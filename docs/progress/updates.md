@@ -2182,3 +2182,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2178: Recorded pass 22 progress note about the dependency boundaries.
 - Update 2179: Recorded pass 22 progress note about the frontend state flow.
 - Update 2180: Recorded pass 22 progress note about the backend service boundaries.
+- Update 2181: Recorded pass 22 progress note about the error messages.
