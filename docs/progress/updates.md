@@ -2225,3 +2225,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2221: Recorded pass 23 progress note about the chat routes.
 - Update 2222: Recorded pass 23 progress note about the assistant service.
 - Update 2223: Recorded pass 23 progress note about the demo assistant.
+- Update 2224: Recorded pass 23 progress note about the local knowledge service.
