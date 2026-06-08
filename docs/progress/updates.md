@@ -2290,3 +2290,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2286: Recorded pass 23 progress note about the client routing.
 - Update 2287: Recorded pass 23 progress note about the server routing.
 - Update 2288: Recorded pass 23 progress note about the modular file layout.
+- Update 2289: Recorded pass 23 progress note about the project overview.
