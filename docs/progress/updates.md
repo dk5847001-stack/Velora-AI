@@ -2288,3 +2288,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2284: Recorded pass 23 progress note about the prompt handling.
 - Update 2285: Recorded pass 23 progress note about the request auth headers.
 - Update 2286: Recorded pass 23 progress note about the client routing.
+- Update 2287: Recorded pass 23 progress note about the server routing.
