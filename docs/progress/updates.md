@@ -2250,3 +2250,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2246: Recorded pass 23 progress note about the chat history loading.
 - Update 2247: Recorded pass 23 progress note about the message persistence.
 - Update 2248: Recorded pass 23 progress note about the AI fallback handling.
+- Update 2249: Recorded pass 23 progress note about the logout behavior.
