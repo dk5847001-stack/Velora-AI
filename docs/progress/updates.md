@@ -2228,3 +2228,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2224: Recorded pass 23 progress note about the local knowledge service.
 - Update 2225: Recorded pass 23 progress note about the math assistant.
 - Update 2226: Recorded pass 23 progress note about the OpenAI service.
+- Update 2227: Recorded pass 23 progress note about the async utilities.
