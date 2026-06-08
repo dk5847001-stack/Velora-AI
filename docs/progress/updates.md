@@ -2261,3 +2261,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2257: Recorded pass 23 progress note about the deployment assumptions.
 - Update 2258: Recorded pass 23 progress note about the local demo mode.
 - Update 2259: Recorded pass 23 progress note about the history sidebar.
+- Update 2260: Recorded pass 23 progress note about the chat deletion flow.
