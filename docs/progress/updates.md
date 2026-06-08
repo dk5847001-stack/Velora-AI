@@ -2286,3 +2286,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2282: Recorded pass 23 progress note about the API fallback paths.
 - Update 2283: Recorded pass 23 progress note about the response timing notes.
 - Update 2284: Recorded pass 23 progress note about the prompt handling.
+- Update 2285: Recorded pass 23 progress note about the request auth headers.
