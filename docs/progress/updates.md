@@ -2295,3 +2295,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2291: Recorded pass 23 progress note about the testing gaps.
 - Update 2292: Recorded pass 23 progress note about the maintenance checklist.
 - Update 2293: Recorded pass 23 progress note about the future backlog.
+- Update 2294: Recorded pass 23 progress note about the troubleshooting notes.
