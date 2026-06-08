@@ -2223,3 +2223,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2219: Recorded pass 23 progress note about the user model.
 - Update 2220: Recorded pass 23 progress note about the auth routes.
 - Update 2221: Recorded pass 23 progress note about the chat routes.
+- Update 2222: Recorded pass 23 progress note about the assistant service.
