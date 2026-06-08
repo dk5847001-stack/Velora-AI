@@ -2256,3 +2256,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2252: Recorded pass 23 progress note about the form feedback.
 - Update 2253: Recorded pass 23 progress note about the placeholder copy.
 - Update 2254: Recorded pass 23 progress note about the component naming.
+- Update 2255: Recorded pass 23 progress note about the folder structure.
