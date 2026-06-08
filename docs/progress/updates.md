@@ -2248,3 +2248,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2244: Recorded pass 23 progress note about the session recovery.
 - Update 2245: Recorded pass 23 progress note about the route protection.
 - Update 2246: Recorded pass 23 progress note about the chat history loading.
+- Update 2247: Recorded pass 23 progress note about the message persistence.
