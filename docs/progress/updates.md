@@ -2257,3 +2257,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2253: Recorded pass 23 progress note about the placeholder copy.
 - Update 2254: Recorded pass 23 progress note about the component naming.
 - Update 2255: Recorded pass 23 progress note about the folder structure.
+- Update 2256: Recorded pass 23 progress note about the API route surface.
