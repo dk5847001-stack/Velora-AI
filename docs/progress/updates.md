@@ -2318,3 +2318,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2314: Recorded pass 24 progress note about the auth controller.
 - Update 2315: Recorded pass 24 progress note about the chat controller.
 - Update 2316: Recorded pass 24 progress note about the auth middleware.
+- Update 2317: Recorded pass 24 progress note about the error middleware.
