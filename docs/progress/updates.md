@@ -2310,3 +2310,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2306: Recorded pass 24 progress note about the empty state.
 - Update 2307: Recorded pass 24 progress note about the sidebar interactions.
 - Update 2308: Recorded pass 24 progress note about the auth context.
+- Update 2309: Recorded pass 24 progress note about the API client setup.
