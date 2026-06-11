@@ -2371,3 +2371,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2367: Recorded pass 24 progress note about the client entry point.
 - Update 2368: Recorded pass 24 progress note about the server entry point.
 - Update 2369: Recorded pass 24 progress note about the Mongoose models.
+- Update 2370: Recorded pass 24 progress note about the React pages.
