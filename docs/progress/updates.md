@@ -2374,3 +2374,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2370: Recorded pass 24 progress note about the React pages.
 - Update 2371: Recorded pass 24 progress note about the shared utilities.
 - Update 2372: Recorded pass 24 progress note about the documentation tone.
+- Update 2373: Recorded pass 24 progress note about the setup clarity.
