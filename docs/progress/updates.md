@@ -2375,3 +2375,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2371: Recorded pass 24 progress note about the shared utilities.
 - Update 2372: Recorded pass 24 progress note about the documentation tone.
 - Update 2373: Recorded pass 24 progress note about the setup clarity.
+- Update 2374: Recorded pass 24 progress note about the runbook details.
