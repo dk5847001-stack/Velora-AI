@@ -2358,3 +2358,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2354: Recorded pass 24 progress note about the component naming.
 - Update 2355: Recorded pass 24 progress note about the folder structure.
 - Update 2356: Recorded pass 24 progress note about the API route surface.
+- Update 2357: Recorded pass 24 progress note about the deployment assumptions.
