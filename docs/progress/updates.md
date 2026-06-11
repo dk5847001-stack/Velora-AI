@@ -2314,3 +2314,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2310: Recorded pass 24 progress note about the format helpers.
 - Update 2311: Recorded pass 24 progress note about the server bootstrap.
 - Update 2312: Recorded pass 24 progress note about the Express app wiring.
+- Update 2313: Recorded pass 24 progress note about the database connection.
