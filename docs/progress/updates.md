@@ -2304,3 +2304,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2300: Recorded pass 23 progress note about the documentation coverage.
 - Update 2301: Recorded pass 24 progress note about the client app shell.
 - Update 2302: Recorded pass 24 progress note about the client auth flow.
+- Update 2303: Recorded pass 24 progress note about the chat composer.
