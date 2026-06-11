@@ -2312,3 +2312,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2308: Recorded pass 24 progress note about the auth context.
 - Update 2309: Recorded pass 24 progress note about the API client setup.
 - Update 2310: Recorded pass 24 progress note about the format helpers.
+- Update 2311: Recorded pass 24 progress note about the server bootstrap.
