@@ -2368,3 +2368,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2364: Recorded pass 24 progress note about the scroll behavior.
 - Update 2365: Recorded pass 24 progress note about the environment variable usage.
 - Update 2366: Recorded pass 24 progress note about the port configuration.
+- Update 2367: Recorded pass 24 progress note about the client entry point.
