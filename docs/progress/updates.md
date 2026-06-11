@@ -2347,3 +2347,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2343: Recorded pass 24 progress note about the response formatting.
 - Update 2344: Recorded pass 24 progress note about the session recovery.
 - Update 2345: Recorded pass 24 progress note about the route protection.
+- Update 2346: Recorded pass 24 progress note about the chat history loading.
