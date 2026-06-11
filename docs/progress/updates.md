@@ -2334,3 +2334,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2330: Recorded pass 24 progress note about the environment examples.
 - Update 2331: Recorded pass 24 progress note about the build outputs.
 - Update 2332: Recorded pass 24 progress note about the development scripts.
+- Update 2333: Recorded pass 24 progress note about the Vite proxy behavior.
