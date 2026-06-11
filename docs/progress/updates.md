@@ -2360,3 +2360,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2356: Recorded pass 24 progress note about the API route surface.
 - Update 2357: Recorded pass 24 progress note about the deployment assumptions.
 - Update 2358: Recorded pass 24 progress note about the local demo mode.
+- Update 2359: Recorded pass 24 progress note about the history sidebar.
