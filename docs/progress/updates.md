@@ -2327,3 +2327,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2323: Recorded pass 24 progress note about the demo assistant.
 - Update 2324: Recorded pass 24 progress note about the local knowledge service.
 - Update 2325: Recorded pass 24 progress note about the math assistant.
+- Update 2326: Recorded pass 24 progress note about the OpenAI service.
