@@ -2349,3 +2349,4 @@ This file records intentionally small, repo-safe documentation updates.
 - Update 2345: Recorded pass 24 progress note about the route protection.
 - Update 2346: Recorded pass 24 progress note about the chat history loading.
 - Update 2347: Recorded pass 24 progress note about the message persistence.
+- Update 2348: Recorded pass 24 progress note about the AI fallback handling.
