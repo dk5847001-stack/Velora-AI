@@ -1,149 +1,256 @@
+# Velora AI
 
+> An AI-powered chatbot that understands user requirements and helps execute tasks through personalized, efficient, and automated conversations.
 
-# Velora AI Chat App
-doc: update:31
-doc: update:32
-doc: update:33
-doc: update:34
-doc: update:35
-doc: update:36
-doc: update:37
-doc: update:38
-doc: update:39
-doc: update:40
+Velora AI is a full-stack chatbot application built with **React**, **Vite**, **Node.js**, **Express**, **MongoDB**, and the **OpenAI API**. Users can create an account, manage conversations, continue previous chats, and receive AI-generated responses through a responsive web interface.
 
+## ✨ Features
 
+- 🔐 User signup, login, logout, and session handling
+- 🛡️ JWT-protected API routes with password hashing via bcrypt
+- 💬 Create, open, continue, and delete conversations
+- 🗃️ Persistent chat history stored in MongoDB
+- 🤖 OpenAI-powered assistant responses
+- 🧪 Built-in demo assistant fallback when the OpenAI API is unavailable
+- 📝 Markdown rendering with GitHub Flavored Markdown support
+- 💻 Syntax-highlighted code blocks with copy support
+- 📱 Responsive layout with mobile sidebar navigation
+- ⚡ Loading states, error banners, auto-scroll, and protected routes
+- 🔧 Vite development proxy and configurable API base URL
 
-Velora is a full-stack AI chatbot web app built with a React + Vite client and a Node.js + Express API. It includes JWT authentication, MongoDB chat persistence, OpenAI integration, responsive dark-mode UI, Markdown rendering, syntax-highlighted code blocks, and recent conversation history.
+## 🧰 Tech stack
 
-## Stack
+### Frontend
 
-- Frontend: React, Vite, React Router, Axios
-- Backend: Node.js, Express, Mongoose
-- Database: MongoDB
-- Authentication: JWT + bcrypt
-- AI provider: OpenAI API
+- React 19
+- Vite
+- React Router
+- Axios
+- React Markdown
+- Remark GFM
+- Rehype Highlight
+- Highlight.js
+- Lucide React
 
-## Project structure
+### Backend
+
+- Node.js
+- Express 5
+- Mongoose
+- MongoDB
+- JSON Web Tokens
+- bcryptjs
+- OpenAI Node SDK
+- dotenv
+- Morgan
+
+## 📁 Project structure
 
 ```text
-chatGpt/
-|-- client/
-|   |-- .env.example
-|   |-- index.html
-|   |-- package.json
-|   |-- vite.config.js
-|   `-- src/
-|       |-- api/
-|       |-- components/
-|       |-- context/
-|       |-- hooks/
-|       |-- pages/
-|       |-- utils/
-|       |-- App.jsx
-|       |-- index.css
-|       `-- main.jsx
-|-- server/
-|   |-- .env.example
-|   |-- package.json
-|   `-- src/
-|       |-- config/
-|       |-- controllers/
-|       |-- middleware/
-|       |-- models/
-|       |-- routes/
-|       |-- services/
-|       |-- utils/
-|       |-- app.js
-|       `-- server.js
-`-- README.md
+Velora-AI/
+├── client/
+│   ├── .env.example
+│   ├── index.html
+│   ├── package.json
+│   ├── vite.config.js
+│   └── src/
+│       ├── api/
+│       ├── components/
+│       ├── context/
+│       ├── hooks/
+│       ├── pages/
+│       ├── utils/
+│       ├── App.jsx
+│       ├── index.css
+│       └── main.jsx
+├── server/
+│   ├── .env.example
+│   ├── package.json
+│   └── src/
+│       ├── config/
+│       ├── controllers/
+│       ├── middleware/
+│       ├── models/
+│       ├── routes/
+│       ├── services/
+│       ├── utils/
+│       ├── app.js
+│       └── server.js
+└── README.md
 ```
 
-## Setup
+## ✅ Prerequisites
 
-1. Create environment files:
+Make sure the following are installed before starting:
+
+- Node.js 18 or newer
+- npm
+- MongoDB locally or a MongoDB Atlas cluster
+- An OpenAI API key, if you want to use live AI responses
+
+## 🚀 Getting started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/dk5847001-stack/Velora-AI.git
+cd Velora-AI
+```
+
+### 2. Configure environment variables
+
+Create environment files from the provided examples.
+
+#### PowerShell
 
 ```powershell
 Copy-Item server\.env.example server\.env
 Copy-Item client\.env.example client\.env
 ```
 
-2. Update the values in `server/.env`:
+#### macOS/Linux
 
-- `MONGODB_URI`: your local MongoDB or MongoDB Atlas connection string
-- `JWT_SECRET`: any long random secret
-- `OPENAI_API_KEY`: your OpenAI API key
-- `OPENAI_MODEL`: defaults to `gpt-5-mini`
-- `CLIENT_URL`: defaults to `http://localhost:5173`
+```bash
+cp server/.env.example server/.env
+cp client/.env.example client/.env
+```
 
-3. Install dependencies:
+Update `server/.env` with your local configuration:
 
-```powershell
+```dotenv
+PORT=5000
+NODE_ENV=development
+MONGODB_URI=mongodb://127.0.0.1:27017/velora-chat
+JWT_SECRET=replace-with-a-long-random-secret
+OPENAI_API_KEY=your-openai-api-key
+OPENAI_MODEL=gpt-5-mini
+OPENAI_MAX_OUTPUT_TOKENS=1200
+FORCE_DEMO_MODE=false
+CLIENT_URL=http://localhost:5173
+```
+
+Update `client/.env` if your API is running on a different URL:
+
+```dotenv
+VITE_API_BASE_URL=http://localhost:5000/api
+```
+
+> Keep `.env` files private. Never commit API keys, database credentials, or JWT secrets to the repository.
+
+### 3. Install dependencies
+
+Install the backend dependencies:
+
+```bash
 cd server
-npm.cmd install
-cd ..\client
-npm.cmd install
+npm install
 ```
 
-## Run the app
+Install the frontend dependencies:
 
-Start the API server:
+```bash
+cd ../client
+npm install
+```
 
-```powershell
+## ▶️ Run locally
+
+Start the backend development server in one terminal:
+
+```bash
 cd server
-npm.cmd run dev
+npm run dev
 ```
 
-Start the Vite client in a second terminal:
+Start the frontend development server in a second terminal:
 
-```powershell
+```bash
 cd client
-npm.cmd run dev
+npm run dev
 ```
 
-Client URL: `http://localhost:5173`
+Open the application at:
 
-API URL: `http://localhost:5000`
+- Frontend: `http://localhost:5173`
+- API: `http://localhost:5000`
 
-## Build the client
+## 📦 Production build
 
-```powershell
+Build the frontend for production:
+
+```bash
 cd client
-npm.cmd run build
+npm run build
 ```
 
-The production files are written to `client/dist`.
+The generated files are placed in `client/dist`.
 
-## Available API routes
+To preview the production build locally:
 
-### Auth
+```bash
+npm run preview
+```
 
-- `POST /api/auth/signup`
-- `POST /api/auth/login`
-- `POST /api/auth/logout`
-- `GET /api/auth/me`
+Start the backend in production mode with:
+
+```bash
+cd ../server
+npm start
+```
+
+## 🔌 API routes
+
+### Authentication
+
+| Method | Endpoint | Description |
+| --- | --- | --- |
+| `POST` | `/api/auth/signup` | Create a new user account |
+| `POST` | `/api/auth/login` | Authenticate a user |
+| `POST` | `/api/auth/logout` | Acknowledge user logout |
+| `GET` | `/api/auth/me` | Return the authenticated user |
 
 ### Chats
 
-- `GET /api/chats`
-- `POST /api/chats`
-- `GET /api/chats/:chatId`
-- `POST /api/chats/:chatId/messages`
-- `DELETE /api/chats/:chatId`
+| Method | Endpoint | Description |
+| --- | --- | --- |
+| `GET` | `/api/chats` | List the authenticated user's chats |
+| `POST` | `/api/chats` | Create a new chat |
+| `GET` | `/api/chats/:chatId` | Get a specific chat |
+| `POST` | `/api/chats/:chatId/messages` | Send a message to a chat |
+| `DELETE` | `/api/chats/:chatId` | Delete a chat |
 
-## Features included
+## ⚙️ Configuration notes
 
-- Signup, login, logout
-- Protected API routes with JWT middleware
-- Create, open, continue, and delete chats
-- Chat history stored in MongoDB
-- OpenAI-generated assistant replies saved with each conversation
-- Markdown rendering with code block copy buttons
-- Loading states, error banners, mobile sidebar, and auto-scroll behavior
+- `OPENAI_API_KEY` enables live OpenAI responses.
+- Set `FORCE_DEMO_MODE=true` to use demo responses intentionally.
+- If the OpenAI key is missing or the provider is temporarily unavailable, the server uses built-in demo assistant responses.
+- `VITE_API_BASE_URL` controls the API URL used by the client.
+- The Vite `/api` proxy is available for local development.
+- Logout uses client-side token removal with a server acknowledgement endpoint, which is suitable for the stateless JWT flow used by this project.
 
-## Notes
+## 🛡️ Security recommendations
 
-- Logout is implemented as client-side token removal with a server acknowledgement endpoint, which is typical for stateless JWT flows.
-- The client uses `VITE_API_BASE_URL` and also includes a Vite `/api` proxy for local development.
-- The backend uses the OpenAI Responses API and stores conversation history in MongoDB.
-- When `OPENAI_API_KEY` is missing or the provider is temporarily unavailable, the server falls back to its built-in demo assistant responses.
+- Use a long, randomly generated `JWT_SECRET`.
+- Do not expose `.env` files or API keys publicly.
+- Use HTTPS in production.
+- Restrict `CLIENT_URL` to trusted frontend origins.
+- Use a dedicated production MongoDB database and credentials.
+- Rotate exposed secrets immediately if they are accidentally committed.
+
+## 🤝 Contributing
+
+Contributions, ideas, and bug reports are welcome.
+
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature/your-feature`.
+3. Make your changes and test them locally.
+4. Commit your work: `git commit -m "Add your change"`.
+5. Push the branch and open a pull request.
+
+## 📄 License
+
+No license has been specified for this repository yet. If you plan to accept external contributions or distribute the project, add an appropriate license file.
+
+## 👤 Author
+
+Built by [dk5847001-stack](https://github.com/dk5847001-stack).
