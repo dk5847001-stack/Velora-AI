@@ -16,10 +16,16 @@ const authRateLimiter = createRateLimiter({
   namespace: "auth",
   message: "Too many authentication attempts. Please try again shortly.",
 });
+const authSessionRateLimiter = createRateLimiter({
+  windowMs: 60_000,
+  maxRequests: 60,
+  namespace: "auth:session",
+  message: "Too many authentication checks. Please wait and try again.",
+});
 
 router.post("/signup", authRateLimiter, signup);
 router.post("/login", authRateLimiter, login);
-router.post("/logout", protect, logout);
-router.get("/me", protect, getCurrentUser);
+router.post("/logout", authSessionRateLimiter, protect, logout);
+router.get("/me", authSessionRateLimiter, protect, getCurrentUser);
 
 export default router;

@@ -4,11 +4,33 @@ import { generateToken } from "../utils/generateToken.js";
 
 const normalizeName = (value = "") => value.replace(/\s+/g, " ").trim();
 const normalizeEmail = (value = "") => value.trim().toLowerCase();
-const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const MAX_EMAIL_LENGTH = 254;
 const NAME_MIN_LENGTH = 2;
 const NAME_MAX_LENGTH = 60;
 const PASSWORD_MIN_LENGTH = 6;
 const PASSWORD_MAX_LENGTH = 128;
+
+const isValidEmail = (email) => {
+  if (typeof email !== "string" || !email || email.length > MAX_EMAIL_LENGTH) {
+    return false;
+  }
+
+  if (email.includes(" ")) {
+    return false;
+  }
+
+  const atIndex = email.indexOf("@");
+  const lastAtIndex = email.lastIndexOf("@");
+
+  if (atIndex <= 0 || atIndex !== lastAtIndex || atIndex >= email.length - 1) {
+    return false;
+  }
+
+  const domain = email.slice(atIndex + 1);
+  const dotIndex = domain.lastIndexOf(".");
+
+  return dotIndex > 0 && dotIndex < domain.length - 1;
+};
 
 const sanitizeUser = (user) => ({
   id: user._id.toString(),
@@ -33,7 +55,7 @@ export const signup = asyncHandler(async (req, res) => {
     throw new Error("Name, email, and password are required.");
   }
 
-  if (!EMAIL_PATTERN.test(email)) {
+  if (!isValidEmail(email)) {
     res.status(400);
     throw new Error("Please provide a valid email address.");
   }
@@ -75,7 +97,7 @@ export const login = asyncHandler(async (req, res) => {
     throw new Error("Email and password are required.");
   }
 
-  if (!EMAIL_PATTERN.test(email)) {
+  if (!isValidEmail(email)) {
     res.status(400);
     throw new Error("Please provide a valid email address.");
   }
