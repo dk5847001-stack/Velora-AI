@@ -1037,6 +1037,23 @@ textarea:focus-visible {
   margin-top: 0.7rem;
   padding-left: 0.35rem;
   font-size: 0.84rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.9rem;
+}
+
+.composer-caption p {
+  margin: 0;
+}
+
+.composer-counter {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.composer-counter.is-over-limit {
+  color: #fca5a5;
 }
 
 @media (prefers-reduced-motion: reduce) {

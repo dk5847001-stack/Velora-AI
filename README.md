@@ -226,6 +226,8 @@ npm start
 - `OPENAI_API_KEY` enables live OpenAI responses.
 - Set `FORCE_DEMO_MODE=true` to use demo responses intentionally.
 - If the OpenAI key is missing or the provider is temporarily unavailable, the server uses built-in demo assistant responses.
+- `OPENAI_CONTEXT_WINDOW` controls how many recent messages are sent to the AI provider (default: `20`).
+- `REQUEST_BODY_LIMIT` controls the maximum JSON body size accepted by the API (default: `1mb`).
 - `VITE_API_BASE_URL` controls the API URL used by the client.
 - The Vite `/api` proxy is available for local development.
 - Logout uses client-side token removal with a server acknowledgement endpoint, which is suitable for the stateless JWT flow used by this project.
@@ -238,6 +240,9 @@ npm start
 - Restrict `CLIENT_URL` to trusted frontend origins.
 - Use a dedicated production MongoDB database and credentials.
 - Rotate exposed secrets immediately if they are accidentally committed.
+- Authentication and message endpoints include lightweight rate-limiting to reduce abuse.
+- API responses include request IDs (`X-Request-Id`) and additional defensive security headers.
+- Authentication responses are explicitly marked `no-store` to avoid sensitive cache persistence.
 
 ## 🤝 Contributing
 

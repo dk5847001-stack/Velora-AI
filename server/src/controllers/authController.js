@@ -4,6 +4,11 @@ import { generateToken } from "../utils/generateToken.js";
 
 const normalizeName = (value = "") => value.replace(/\s+/g, " ").trim();
 const normalizeEmail = (value = "") => value.trim().toLowerCase();
+const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const NAME_MIN_LENGTH = 2;
+const NAME_MAX_LENGTH = 60;
+const PASSWORD_MIN_LENGTH = 6;
+const PASSWORD_MAX_LENGTH = 128;
 
 const sanitizeUser = (user) => ({
   id: user._id.toString(),
@@ -28,9 +33,21 @@ export const signup = asyncHandler(async (req, res) => {
     throw new Error("Name, email, and password are required.");
   }
 
-  if (password.length < 6) {
+  if (!EMAIL_PATTERN.test(email)) {
     res.status(400);
-    throw new Error("Password must be at least 6 characters long.");
+    throw new Error("Please provide a valid email address.");
+  }
+
+  if (name.length < NAME_MIN_LENGTH || name.length > NAME_MAX_LENGTH) {
+    res.status(400);
+    throw new Error(`Name must be between ${NAME_MIN_LENGTH} and ${NAME_MAX_LENGTH} characters.`);
+  }
+
+  if (password.length < PASSWORD_MIN_LENGTH || password.length > PASSWORD_MAX_LENGTH) {
+    res.status(400);
+    throw new Error(
+      `Password must be between ${PASSWORD_MIN_LENGTH} and ${PASSWORD_MAX_LENGTH} characters long.`
+    );
   }
 
   const existingUser = await User.findOne({ email });
@@ -56,6 +73,18 @@ export const login = asyncHandler(async (req, res) => {
   if (!email || !password) {
     res.status(400);
     throw new Error("Email and password are required.");
+  }
+
+  if (!EMAIL_PATTERN.test(email)) {
+    res.status(400);
+    throw new Error("Please provide a valid email address.");
+  }
+
+  if (password.length < PASSWORD_MIN_LENGTH || password.length > PASSWORD_MAX_LENGTH) {
+    res.status(400);
+    throw new Error(
+      `Password must be between ${PASSWORD_MIN_LENGTH} and ${PASSWORD_MAX_LENGTH} characters long.`
+    );
   }
 
   const user = await User.findOne({ email }).select("+password");

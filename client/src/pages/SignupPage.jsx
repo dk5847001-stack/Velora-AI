@@ -76,6 +76,7 @@ export default function SignupPage() {
             onChange={(event) => updateField("email", event.target.value)}
             placeholder="you@example.com"
             autoComplete="email"
+            maxLength={254}
             required
           />
         </label>
@@ -90,6 +91,7 @@ export default function SignupPage() {
             autoComplete="new-password"
             required
             minLength={6}
+            maxLength={128}
           />
         </label>
 

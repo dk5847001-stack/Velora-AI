@@ -19,6 +19,7 @@ import { useAuth } from "../context/AuthContext";
 import { useAutoScroll } from "../hooks/useAutoScroll";
 
 const DEFAULT_CHAT_TITLE = "New conversation";
+const MAX_MESSAGE_LENGTH = 4000;
 
 const sortChats = (items) =>
   [...items.filter(Boolean)].sort(
@@ -237,6 +238,11 @@ export default function ChatPage() {
       return;
     }
 
+    if (content.length > MAX_MESSAGE_LENGTH) {
+      setPageError(`Message cannot exceed ${MAX_MESSAGE_LENGTH} characters.`);
+      return;
+    }
+
     let workingChat = activeChat;
 
     if (!workingChat) {
@@ -405,6 +411,7 @@ export default function ChatPage() {
           onChange={setComposerValue}
           onSubmit={handleSendMessage}
           isSending={isResponding}
+          maxLength={MAX_MESSAGE_LENGTH}
           disabled={isResponding || isLoadingChats || isLoadingConversation}
         />
       </main>

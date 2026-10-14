@@ -60,6 +60,7 @@ export default function LoginPage() {
             onChange={(event) => updateField("email", event.target.value)}
             placeholder="you@example.com"
             autoComplete="email"
+            maxLength={254}
             required
           />
         </label>
@@ -72,6 +73,8 @@ export default function LoginPage() {
             onChange={(event) => updateField("password", event.target.value)}
             placeholder="Enter your password"
             autoComplete="current-password"
+            minLength={6}
+            maxLength={128}
             required
           />
         </label>

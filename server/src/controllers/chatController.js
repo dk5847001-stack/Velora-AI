@@ -9,8 +9,11 @@ import { asyncHandler } from "../utils/asyncHandler.js";
 
 const DEFAULT_CHAT_TITLE = "New conversation";
 const PREVIEW_MAX_LENGTH = 140;
+const CHAT_TITLE_MAX_LENGTH = 100;
+const CHAT_MESSAGE_MAX_LENGTH = 4000;
 
 const normalizeText = (value = "") => value.replace(/\s+/g, " ").trim();
+const normalizeMessage = (value = "") => String(value).trim();
 
 const buildChatTitle = (content) => {
   const trimmed = normalizeText(content);
@@ -99,6 +102,11 @@ export const getChats = asyncHandler(async (req, res) => {
 export const createChat = asyncHandler(async (req, res) => {
   const requestedTitle = normalizeText(req.body?.title);
 
+  if (requestedTitle.length > CHAT_TITLE_MAX_LENGTH) {
+    res.status(400);
+    throw new Error(`Chat title cannot exceed ${CHAT_TITLE_MAX_LENGTH} characters.`);
+  }
+
   const chat = await Chat.create({
     user: req.user._id,
     title: requestedTitle || DEFAULT_CHAT_TITLE,
@@ -122,11 +130,16 @@ export const getChatById = asyncHandler(async (req, res) => {
 });
 
 export const sendMessage = asyncHandler(async (req, res) => {
-  const content = req.body?.content?.trim();
+  const content = normalizeMessage(req.body?.content);
 
   if (!content) {
     res.status(400);
     throw new Error("Message content is required.");
+  }
+
+  if (content.length > CHAT_MESSAGE_MAX_LENGTH) {
+    res.status(400);
+    throw new Error(`Message cannot exceed ${CHAT_MESSAGE_MAX_LENGTH} characters.`);
   }
 
   const chat = await getChatForUser(req.params.chatId, req.user._id);

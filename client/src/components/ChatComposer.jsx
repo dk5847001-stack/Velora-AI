@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 export default function ChatComposer({
   disabled,
   isSending,
+  maxLength = 4000,
   onChange,
   onSubmit,
   value,
@@ -28,11 +29,13 @@ export default function ChatComposer({
   }, [disabled]);
 
   const handleSubmit = () => {
-    if (disabled || !value.trim()) {
+    const trimmed = value.trim();
+
+    if (disabled || !trimmed || trimmed.length > maxLength) {
       return;
     }
 
-    onSubmit(value);
+    onSubmit(trimmed);
   };
 
   return (
@@ -54,6 +57,7 @@ export default function ChatComposer({
           autoCapitalize="sentences"
           value={value}
           onChange={(event) => onChange(event.target.value)}
+          maxLength={maxLength}
           onKeyDown={(event) => {
             if (event.key === "Enter" && !event.shiftKey) {
               event.preventDefault();
@@ -66,7 +70,7 @@ export default function ChatComposer({
 
         <button
           className="primary-button composer-submit"
-          disabled={disabled || !value.trim()}
+          disabled={disabled || !value.trim() || value.trim().length > maxLength}
           type="submit"
         >
           <SendHorizontal size={16} />
@@ -74,9 +78,12 @@ export default function ChatComposer({
         </button>
       </form>
 
-      <p className="composer-caption">
-        Press Enter to send. Shift + Enter adds a new line.
-      </p>
+      <div className="composer-caption">
+        <p>Press Enter to send. Shift + Enter adds a new line.</p>
+        <p className={value.length > maxLength ? "composer-counter is-over-limit" : "composer-counter"}>
+          {value.length}/{maxLength}
+        </p>
+      </div>
     </div>
   );
 }
